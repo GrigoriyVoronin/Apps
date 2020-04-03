@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DURAK", "DURAK\DURAK.csproj", "{64483FF2-F1E5-4B82-A675-BB1526D0457F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64483FF2-F1E5-4B82-A675-BB1526D0457F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64483FF2-F1E5-4B82-A675-BB1526D0457F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64483FF2-F1E5-4B82-A675-BB1526D0457F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64483FF2-F1E5-4B82-A675-BB1526D0457F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {647E6EE9-731F-4033-B342-470BBE1B0468}
+	EndGlobalSection
+EndGlobal
