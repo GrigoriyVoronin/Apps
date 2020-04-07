@@ -1,0 +1,1034 @@
+# Данные о рынке компьютеров на 12.01.03
+# экспортированы из "Компьютер Бизнес Маркет" издательства "Atlant"
+# http://www.adlen.ru/bmv/
+#
+# Модель	RAM,Mb	HDD,Gb	Video,Монитор	СD-ROM	Sound	Примечания	Цена,$	Фирма	Телефон	Ст.Метро
+Celeron 266	32 DIMM	4.3	Video 4Mb		Sound	любое измен. конфиг., скидки учащимся	$118	КИМОР	321-68-88	Пионер.
+Celeron 333	64 DIMM	6.4	Video 4Mb		Sound	любое измен. конфиг., скидки учащимся	$128	КИМОР	321-68-88	Пионер.
+Celeron 333	64	10.0	8Mb SVGA		SB	люб. изм. конф., гар. 1г.	$134	ФРАКТАЛ	325-09-82	Лиг.пр.
+Celeron 333	64	10.4 ATA/100	8Mb 3D			гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$135	НеваЛайн	164-53-77	Пл.Восст.
+Celeron 300	128	3.2	8Mb	52x	SB	ATX, k., m., гар. 1г.	$136	Элика	246-96-38	Ч.речка
+Celeron 433 FCGA 128K cache 66MHz, MB VIA Apollo Pro, ATX	64 PC133	10.2 ATA/100	8Mb		Sound	люб. изм. конфигур.	$143	РиМ	325-06-22	Н.черкас.
+Celeron 500 FCGA 128K cache 66MHz, MB VIA Apollo Pro, ATX	64 PC133	10.2 ATA/100	8Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$145	РиМ	327-20-20	Озерки
+Celeron 500 FCPGA 128K cache 66MHz, MB VIA Apollo Pro, ATX	64 PC100	30.0 ATA/100	8Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$150	РиМ	327-15-02	Академ.
+Celeron 433	64	10.4 ATA/100	8Mb 3D	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$155	НеваЛайн	164-53-77	Пл.Восст.
+Celeron 533 FCGA 128K cache 66MHz, MB VIA Apollo Pro, ATX	128 PC133	30.0 ATA/100	8Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$157	РиМ	153-83-65	Лен.пр.
+Celeron 733 FCGA 128K cache, 66MHz, MB VIA Apollo Pro, ATX	128 PC100	30.0 ATA/100	8Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$163	РиМ	325-35-35	Владим.
+Celeron 500 FCPGA 128K cache 66MHz, MB VIA Apollo Pro, ATX	64 PC100	10.2 ATA/100	8Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$165	РиМ	325-77-74	Ладожск.
+Celeron 733 FCGA 128K cache, 66MHz, MB VIA Apollo Pro, ATX	64 PC100	10.2 ATA/100	8Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$171	РиМ	325-77-74	Ладожск.
+Celeron 950A FCGA 128K cache 100MHz, MB VIA Apollo Pro, ATX	64 PC133	30.0 ATA/100	8Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$171	РиМ	327-20-20	Озерки
+Celeron 500 FCGA 128K cache 66MHz, MB VIA Apollo Pro, ATX	128 PC133	30.0 ATA/100	8Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$176	РиМ	325-35-35	Владим.
+Celeron 950A FCPGA 128K cache, 100MHz, MB VIA Apollo Pro, ATX	128 PC133	30.0 ATA/100	8Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$177	РиМ	153-83-65	Лен.пр.
+Celeron 466, ATX	128	20.0	8Mb		SB 16	Выбор конфигур., б/вых., гар. 3г.	$179	1001РС	560-92-43	Ломонос.
+Celeron 1000A Tualatin FCGA 128K cache 100MHz, MB VIA Apollo Pro, ATX	128 PC133	10.2 ATA/100	16Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$179	РиМ	325-77-74	Ладожск.
+Celeron 1100 Tualatin FCGA 128K cache 100MHz, MB VIA Apollo Pro, ATX	128 PC133	10.2 ATA/100	16Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$180	РиМ	325-77-74	Ладожск.
+Celeron 1200A Tualatin FCPGA 256K cache, 100MHz, MB VIA Apollo Pro, ATX	128 PC133	10.2 ATA/100	16Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$183	РиМ	325-77-74	Ладожск.
+Celeron 533	64	10.4 ATA/100	8Mb		SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$185	НеваЛайн	164-53-77	Пл.Восст.
+Celeron 800A	128 (64) PC133	10.0 ATA/100	8Mb AGP		16bit	k., m., любые конфигур., upgrade	$188	МЕРИДИАН	322-64-96	Лесная
+Celeron 1300A Tualatin FCPGA 256K cache, 100MHz, MB VIA Apollo Pro, ATX	128 PC133	10.2 ATA/100	16Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$190	РиМ	325-77-74	Ладожск.
+Celeron 950A FCPGA 128K cache, 100MHz, MB VIA Apollo Pro, ATX	64 PC133	10.2 ATA/100	Riva TNT2 16Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$194	РиМ	325-77-74	Ладожск.
+Celeron 400 128K 66MHz, MB Intel D815EEA i815E	128 PC133	20.0 Maxtor 5400	onboard 3D i752		AC'97	ATX, k., m., полн. гар. 1.5г.	$196	ЭЛИКА+	325-86-41	Техн.и-т
+Celeron 1400A Tualatin FCPGA 256K cache, 100MHz, MB VIA Apollo Pro, ATX	128 PC133	10.2 ATA/100	16Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$198	РиМ	325-77-74	Ладожск.
+Celeron 566A FCPGA 128K cache 100MHz	128 PC133	10,2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$200	РИК	327-34-10	Черныш.
+Celeron 733A PPGA 128K cache 66MHz	128 PC133	10.2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$200	Политехника	528-17-22	Н.черкас.
+Celeron 733A PPGA 128K cache 66MHz	128 PC133	10,2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$201	РИК	327-34-10	Черныш.
+Celeron 500 FCPGA 128K cache 66MHz, MB VIA Apollo Pro, ATX	128 PC133	30.0 ATA/100	ATI Rage 128 Pro 32Mb AGP	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$202	РиМ	325-06-22	Н.черкас.
+Celeron 1100 Tualatin 256K, MB VIA PLE133 (370) ATX	128 PC133	10.0 ATA/100	встроен. 3D	на выбор	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$202	GENESIS	324-99-87	Ч.речка
+Celeron 800A FCPGA 128K cache 100MHz,	128 PC133	10,2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$203	РИК	327-34-10	Черныш.
+Celeron 1200 Tualatin 256K, MB VIA PLE133 (370) ATX	128 PC133	10.0 ATA/100	встроен. 3D	на выбор	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$204	GENESIS	324-99-86	Ч.речка
+Celeron 950A FCPGA 128K cache 100MHz	128 PC133	10,2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$205	РИК	327-34-10	Черныш.
+Celeron 1000 MB VIA PLE133 (370) ATX	128 PC133	20.0 ATA/100	встроен. 3D	на выбор	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$205	GENESIS	324-99-86	Ч.речка
+Celeron 950A FCPGA 128K cache 100MHz	128 PC133	10.2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$205	Политехника	528-17-22	Н.черкас.
+Celeron 1100 256K cache 100MHz FCPGA Box	128 DIMM	20.0 Maxtor 5400rpm	onboard		onboard	гар. 3г., б/п дост.	$206	КВАНТ-НЕВА	274-03-02	Пл.Восст.
+Celeron 733 FCGA 128K cache, 66MHz, MB VIA Apollo Pro, ATX	128 PC133	30.0 ATA/100	ATI Rage 128 Pro 32Mb AGP	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$208	РиМ	325-06-22	Н.черкас.
+Celeron 1000A Tualatin FCPGA 128K cache, 100MHz, MB VIA Apollo Pro, ATX	128 PC133	20.4 ATA/100	ATI Rage 128 Pro 32Mb AGP		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$209	РиМ	327-15-02	Академ.
+Celeron 1300 Tualatin 256K, MB VIA PLE133 (370) ATX	128 PC133	10.0 ATA/100	встроен. 3D	на выбор	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$209	GENESIS	324-99-86	Ч.речка
+Celeron 800 FCGA 128K cache 66MHz, MB VIA Apollo Pro, ATX	128 PC133	30.0 ATA/100	ATI Rage 128 Pro 32Mb, AGP	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$210	РиМ	153-83-65	Лен.пр.
+Celeron 1100 Tualatin FCPGA 128K cache, 100MHz, MB VIA Apollo Pro, ATX	128 PC133	20.4 ATA/100	ATI Rage 128 Pro 32Mb AGP		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$210	РиМ	327-15-02	Академ.
+Celeron 1200	128 PC133	20.0 ATA/100	8Mb AGP		16bit	k., m., любые конфигур., upgrade	$210	МЕРИДИАН	322-64-96	Лесная
+Celeron 733A PPGA 128K cache 66MHz	256 PC133	10.2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$210	Политехника	528-17-22	Н.черкас.
+ASCoD Partner VIA Celeron 800, MB VIA PLE133T, ATX	128 PC133	20.0 UDMA/100	onboard		16bit, PCI	полн. гар. 2г.	$211	ASCOD	325-15-55	Горьк.
+Celeron 1200A Tualatin FCPGA 256K cache, 100MHz, MB VIA Apollo Pro, ATX	128 PC133	20.4 ATA/100	ATI Rage 128 Pro 32Mb AGP		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$213	РиМ	327-15-02	Академ.
+Celeron 733A PPGA 128K cache 66MHz	256 PC133	10,2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$214	РИК	327-34-10	Черныш.
+Celeron 733A PPGA 128K cache 66MHz	128 PC133	20.5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$214	Политехника	528-17-22	Н.черкас.
+Celeron 733A PPGA 128K cache 66MHz	128 PC133	20,5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$215	РИК	327-34-10	Черныш.
+Celeron 1200, MB i815, ATX	128	30.0	8Mb SVGA		SB 16bit	ATX, гар. 2г., 5ч. Internet в подарок	$215	СВЕГА-ПЛЮС	372-15-77	Лен.пр.
+Celeron 950A FCPGA 128K cache, 100MHz, MB VIA Apollo Pro, ATX	128 PC133	30.0 ATA/100	ATI Rage 128 Pro 32Mb AGP	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$217	РиМ	325-06-22	Н.черкас.
+Celeron 1000A Tualatin FCPGA 100MHz	128 PC133	10,2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$219	РИК	327-34-10	Черныш.
+Office Standart Celeron 433	64	10.0 Maxtor 5400rpm	16Mb onboard	52x	SB	ATX, FDD, CD-ROM LG, изм. конфигур.	$219	СТРОНГ	325-17-97	Елизар.
+Celeron 1300A Tualatin FCPGA 256K cache, 100MHz, MB VIA Apollo Pro, ATX	128 PC133	20.4 ATA/100	ATI Rage 128 Pro 32Mb AGP		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$220	РиМ	327-15-02	Академ.
+Celeron 1100A Tualatin FCPGA 100MHz	128 PC133	10,2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$220	РИК	327-34-10	Черныш.
+Celeron 1100A Tualatin FCPGA 100MHz	128 PC133	10.2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$220	Политехника	528-17-22	Н.черкас.
+Celeron 1200	128 PC133	20.5 Maxtor	Intel 752 AGP 8Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$223	IN-Tech	224-17-81	Пл.Лен.
+Celeron 733A PPGA 128K cache 66MHz	256 PC133	20.5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$224	Политехника	528-17-22	Н.черкас.
+Celeron 733 FCGA 128K cache, 66MHz, MB VIA Apollo Pro, ATX	128 PC133	40.0 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$225	РиМ	327-20-20	Озерки
+Celeron 850, 100MHz FSB	128	10.4 ATA/100	16Mb 3D	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$225	НеваЛайн	164-62-53	Пл.Восст.
+Celeron 733, Box	128 PC133	10.2 UDMA/100	64Mb	52x	SB 16 AC'97	CD-ROM Samsung, корпус ATX 250W, гар., б/вых.	$225	Server-Comp	327-21-38	Г.Д.
+Celeron 1400 256K cache 100MHz FCPGA Box	128 DIMM	20.0 Maxtor 5400rpm	onboard		onboard	гар. 3г., б/п дост.	$226	КВАНТ-НЕВА	274-03-02	Пл.Восст.
+Celeron 566A FCPGA 128K cache 100MHz	256 PC133	20,5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$227	РИК	327-34-10	Черныш.
+Celeron 1000, 100MHz FSB	128	10.4 ATA/100	8Mb 3D	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$227	НеваЛайн	164-62-53	Пл.Восст.
+Celeron 1400A Tualatin FCPGA 256K cache, 100MHz, MB VIA Apollo Pro, ATX	128 PC133	20.4 ATA/100	ATI Rage 128 Pro 32Mb AGP		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$228	РиМ	327-15-02	Академ.
+Celeron 733A PPGA 128K cache 66MHz	256 PC133	20,5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$228	РИК	327-34-10	Черныш.
+Celeron 950A FCPGA 128K cache 100MHz	256 PC133	20.5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$229	Политехника	528-17-22	Н.черкас.
+Celeron 800A FCPGA 128K cache 100MHz	256 PC133	20,5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$230	РИК	327-34-10	Черныш.
+Celeron 1200	128 PC133	41.0 Maxtor	Intel 752 AGP 8Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$230	IN-Tech	533-43-03	Академ.
+Celeron 950A FCPGA 128K cache 100MHz	256 PC133	20,5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$232	РИК	327-34-10	Черныш.
+Celeron 566A FCPGA 128K cache 100MHz	128 PC133	10,2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$233	РИК	327-34-10	Черныш.
+Celeron 950A FCPGA 128K cache, 100MHz, MB VIA Apollo Pro, ATX	128 PC133	40.0 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$234	РиМ	325-35-35	Владим.
+Celeron 800A FCPGA 128K cache 100MHz	128 PC133	10,2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$236	РИК	327-34-10	Черныш.
+Celeron 566A FCPGA 128K cache 100MHz	256 PC133	40,5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$236	РИК	327-34-10	Черныш.
+Celeron 950A FCPGA 128K cache 100MHz	128 PC133	10,2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$238	РИК	327-34-10	Черныш.
+Celeron 950A FCPGA 128K cache 100MHz	256 PC133	40.5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$238	Политехника	528-17-22	Н.черкас.
+Celeron 950A FCPGA 128K cache 100MHz	128 PC133	10.2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$238	Политехника	528-17-22	Н.черкас.
+Celeron 1000A Tualatin FCPGA 128K cache, 100MHz, MB VIA Apollo Pro, ATX	128 PC133	20.4 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$239	РиМ	325-06-22	Н.черкас.
+Celeron 800A FCPGA 128K cache 100MHz	256 PC133	40,5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$239	РИК	327-34-10	Черныш.
+Celeron 1100 Tualatin FCPGA 128K cache, 100MHz, MB VIA Apollo Pro, ATX	128 PC133	20.4 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$240	РиМ	325-06-22	Н.черкас.
+Celeron 1100 256K 100MHz, MB intel D815EEA2 i815E	128 PC133	20.0 Maxtor 5400	onboard 3D i752		AC'97	ATX, k., m., полн. гар. 1.5г.	$240	ЭЛИКА+	325-86-41	Техн.и-т
+Celeron 950A FCPGA 128K cache 100MHz	256 PC133	40,5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$241	РИК	327-34-10	Черныш.
+Celeron 566A FCPGA 128K cache 100MHz	128 PC133	10,2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$242	РИК	327-34-10	Черныш.
+Celeron 733A PPGA 128K cache 66MHz	128 PC133	10.2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$242	Политехника	528-17-22	Н.черкас.
+Celeron 1200A Tualatin FCPGA 256K cache, 100MHz, MB VIA Apollo Pro, ATX	128 PC133	20.4 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$243	РиМ	325-06-22	Н.черкас.
+Celeron 733A PPGA 128K cache 66MHz	128 PC133	10,2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$243	РИК	327-34-10	Черныш.
+Celeron 1000 Tualatin TFC 100MHz 256K cache	128 SDRAM PC133	20.0 Samsung ATA/100	Trident Blade 2D/3D onboard	52x	AC'97	ATX MiddleTower 235W, k. Chicony	$244	CONCOM	320-90-80	Садовая
+Celeron 1100A Tualatin FCPGA 100MHz	256 PC133	20.5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$244	Политехника	528-17-22	Н.черкас.
+Celeron 800A FCPGA 128K cache 100MHz	128 PC133	10,2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$245	РИК	327-34-10	Черныш.
+Celeron 733, MB JetWay 603	128 DIMM	20.0	8-64Mb	48x-52x	SB	case ATX, k. 9901, m. NetScroll	$245	ATS Plus	327-52-99	Петр.
+Celeron 1200, ATX	128	20.0	8Mb		SB 16	Выбор конфигур., б/вых., гар. 3г.	$246	1001РС	560-92-43	Ломонос.
+Celeron 1000A Tualatin FCPGA 100MHz	256 PC133	20,5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$246	РИК	327-34-10	Черныш.
+Celeron 1100A Tualatin FCPGA 100MHz	256 PC133	20,5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$247	РИК	327-34-10	Черныш.
+Celeron 950A FCPGA 128K cache 100MHz	128 PC133	10,2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$247	РИК	327-34-10	Черныш.
+Celeron 950A FCPGA 128K cache 100MHz	128 PC133	10.2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$247	Политехника	528-17-22	Н.черкас.
+Celeron 1300A Tualatin FCPGA 256K cache, 100MHz, MB VIA Apollo Pro, ATX	128 PC133	20.4 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$250	РиМ	325-06-22	Н.черкас.
+Celeron 950, MB JetWay 603	128 DIMM	20.0	8-64Mb	48x-52x	SB	case ATX, k. 9901, m. NetScroll	$250	ATS Plus	327-52-07	Петр.
+Celeron 1100 100MHz, MB MS-6368	128 DIMM	20.0	onboard	52x	AC'97	Case MidiTower 235W, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$251	ТЕХНОСИЛА	320-18-22	Пл.Муж.
+Celeron 1100 100MHz, MB MS-6368	128 DIMM	20.0	onboard	52x	AC'97	Case MidiTower 235W, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$251	ТЕХНОСИЛА	322-92-64	Петр.
+Celeron 1000A Tualatin FCPGA 100MHz	128 PC133	10,2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$252	РИК	327-34-10	Черныш.
+Celeron 733A PPGA 128K cache 66MHz	256 PC133	10.2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$252	Политехника	528-17-22	Н.черкас.
+Celeron 1100A Tualatin FCPGA 100MHz	128 PC133	10,2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$253	РИК	327-34-10	Черныш.
+Celeron 1100A Tualatin FCPGA 100MHz	256 PC133	40.5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$253	Политехника	528-17-22	Н.черкас.
+Celeron 1100A Tualatin FCPGA 100MHz	128 PC133	10.2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$253	Политехника	528-17-22	Н.черкас.
+Celeron 1000A Tualatin FCPGA 100MHz	256 PC133	40,5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$255	РИК	327-34-10	Черныш.
+Celeron 1200A Tualatin FCPGA 256K cache 100MHz	128 PC133	10,2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$255	РИК	327-34-10	Черныш.
+Celeron 1200 FCPGA, MB VIA, S370	128	20.0	встроен. 3D	56x	AC'97	люб. измен. конфиг., гар от 1г., техн. обслужив., апгрейд	$255	ВИЛКОМ+	325-37-45	Нарвск.
+Celeron 1000, 100MHz FSB	128	10.4 ATA/100	Riva TNT 32Mb	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$255	НеваЛайн	110-81-87	Пл.Восст.
+Celeron 733A PPGA 128K cache 66MHz	256 PC133	10,2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$256	РИК	327-34-10	Черныш.
+Celeron 1100A Tualatin FCPGA 100MHz	256 PC133	40,5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$256	РИК	327-34-10	Черныш.
+Celeron 800, MB i815EP (Tualatin) ATX	128 PC133	10.0 ATA/100	32Mb Riva TNT2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$256	GENESIS	324-99-86	Ч.речка
+Celeron 1200	128 PC133	20.5 Maxtor	GeForce2 MX200 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$256	IN-Tech	587-75-75	Пр.Больш.
+Celeron 733A PPGA 128K cache 66MHz	128 PC133	20.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$256	Политехника	528-17-22	Н.черкас.
+Celeron 733A PPGA 128K cache 66MHz	128 PC133	20,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$257	РИК	327-34-10	Черныш.
+Celeron 1700	128 PC133	20.5 Maxtor	Intel 752 AGP 8Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$257	IN-Tech	533-43-03	Академ.
+Celeron 1200A Tualatin FCPGA 256K cache 100MHz	128 PC133	10.2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$257	Политехника	528-17-22	Н.черкас.
+Celeron 1400A Tualatin FCPGA 256K cache, 100MHz, MB VIA Apollo Pro, ATX	128 PC133	20.4 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$258	РиМ	325-06-22	Н.черкас.
+Celeron 1000 Tualatin, MB i815EP ATX	128 PC133	10.0 ATA/100	32Mb Riva TNT2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$258	GENESIS	324-99-86	Ч.речка
+Celeron 1000A Tualatin FCPGA 128K cache, 100MHz, MB VIA Apollo Pro, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$259	РиМ	325-35-35	Владим.
+Celeron P4 1700 128K cache, Socket-478, 400MHz FSB, MB i845, ATX	128 PC133	20.0 ATA/100	ATI Rage 128 Pro 32Mb, AGP	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$259	РиМ	327-15-02	Академ.
+Celeron 1300 Tualatin 256K, MB VIA 133A (694) ATX	128 PC133	20.0 ATA/100	Riva TNT2 32Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$259	GENESIS	324-99-86	Ч.речка
+Celeron 1100 Tualatin FCPGA 128K cache, 100MHz, MB VIA Apollo Pro, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$260	РиМ	325-35-35	Владим.
+Celeron 1300A Tualatin FCPGA 256K cache 100MHz	128 PC133	10,2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$260	РИК	327-34-10	Черныш.
+Celeron 1100, MB JetWay 603	128 DIMM	20.0	8-64Mb	48x-52x	SB	case ATX, k. 9901, m. NetScroll	$260	ATS Plus	327-52-99	Петр.
+Celeron 1200, MB VIA, ATX	128	30.0	ATI Rage 128 Pro 32Mb	52x	SB 16bit	ATX, гар. 2г., 5ч. Internet в подарок	$260	СВЕГА-ПЛЮС	325-16-37	Лиг.пр.
+Celeron 1000A Tualatin FCPGA 100MHz	128 PC133	10,2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$261	РИК	327-34-10	Черныш.
+Celeron 1100A Tualatin FCPGA 100MHz	128 PC133	10,2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$262	РИК	327-34-10	Черныш.
+Celeron 1300A Tualatin FCPGA 256K cache 100MHz	128 PC133	10.2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$262	Политехника	528-17-22	Н.черкас.
+Celeron 1100A Tualatin FCPGA 100MHz	128 PC133	10.2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$262	Политехника	528-17-22	Н.черкас.
+Celeron 1200A Tualatin FCPGA 256K cache, 100MHz, MB VIA Apollo Pro, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$263	РиМ	325-35-35	Владим.
+Celeron 1200A Tualatin FCPGA 256K cache 100MHz	128 PC133	10,2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$264	РИК	327-34-10	Черныш.
+Celeron 1000, 100MHz FSB	128	20.4 ATA/100	GeForce 32Mb	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$265	НеваЛайн	110-81-87	Пл.Восст.
+Celeron 1400, MB VIA, ATX	128	30.0	GeForce4 MX400 32Mb	52x	SB 16bit	case ATX, гар. 2г., 5ч. Internet в подарок	$265	СВЕГА-ПЛЮС	372-15-77	Лен.пр.
+Celeron 950, 100MHz, Box	128 PC133 Hyundai	40.2 UDMA/100	64Mb	48x-52x	SB 16 AC'97	CD-ROM Samsung/Acer, корпус ATX 250W, гар., б/вых.	$265	Server-Comp	327-21-38	Г.Д.
+Celeron 566A FCPGA 128K cache 100MHz	256 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$266	РИК	327-34-10	Черныш.
+Celeron 1700	128 PC133	41.0 Maxtor	Intel 752 AGP 8Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$266	IN-Tech	587-75-75	Пр.Больш.
+Celeron 1200A Tualatin FCPGA 256K cache 100MHz	128 PC133	10.2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$266	Политехника	528-17-22	Н.черкас.
+Celeron 733A PPGA 128K cache 66MHz	256 PC133	20.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$266	Политехника	528-17-22	Н.черкас.
+Celeron 1200	128 PC133	41.0 Maxtor	GeForce2 MX400 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$267	IN-Tech	224-17-81	Пл.Лен.
+Celeron 950A FCPGA 128K cache 100MHz	256 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$268	Политехника	528-17-22	Н.черкас.
+Celeron 1400A Tualatin FCPGA 256K cache 100MHz	128 PC133	10.2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$268	Политехника	528-17-22	Н.черкас.
+Celeron 800A FCPGA 128K cache 100MHz	256 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$269	РИК	327-34-10	Черныш.
+Celeron 1400A Tualatin FCPGA 256K cache 100MHz	128 PC133	10,2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$269	РИК	327-34-10	Черныш.
+Celeron 1200A Tualatin FCPGA 256K cache 100MHz	128 PC133	20,5	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$269	РИК	327-34-10	Черныш.
+Celeron 1300A Tualatin FCPGA 256K cache 100MHz	128 PC133	10,2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$269	РИК	327-34-10	Черныш.
+Celeron 1300A Tualatin FCPGA 256K cache, 100MHz, MB VIA Apollo Pro, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$270	РиМ	325-35-35	Владим.
+Celeron 733A PPGA 128K cache 66MHz	256 PC133	20,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$270	РИК	327-34-10	Черныш.
+Celeron 1200 Tualatin 256K, MB i815EP (Tualatin) ATX	128 PC133	20.0 ATA/100	32Mb GeForce2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$270	GENESIS	324-99-86	Ч.речка
+Celeron 1200A, MB VIA, Socket-370	256	20.0	onboard 3D	56x	AC'97	люб. измен. конфиг., гар от 1г., техн. обслужив., upgrade	$270	ВИЛКОМ+	325-37-45	Нарвск.
+Celeron 1200, MB JetWay 603	128 DIMM	20.0	8-64Mb	48x-52x	SB	case ATX, k. 9901, m. NetScroll	$270	ATS Plus	327-52-07	Петр.
+Celeron 1200, MB VIA, ATX	128	30.0	GeForce4 MX400 32Mb	52x	SB 16bit	ATX, гар. 2г., 5ч. Internet в подарок	$270	СВЕГА-ПЛЮС	259-91-07	Техн.и-т
+Celeron 1300, MB VIA, ATX	128	30.0	ATI Rage 128 Pro 32Mb	52x	SB 16bit	ATX, гар. 2г., 5ч. Internet в подарок	$270	СВЕГА-ПЛЮС	327-46-30	В.О.
+Celeron 950A FCPGA 128K cache 100MHz	256 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$271	РИК	327-34-10	Черныш.
+Celeron 1200A Tualatin FCPGA 256K cache 100MHz	128 PC133	20.5	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$271	Политехника	528-17-22	Н.черкас.
+Celeron 1300A Tualatin FCPGA 256K cache 100MHz	128 PC133	10.2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$271	Политехника	528-17-22	Н.черкас.
+ASCoD Navigator Celeron 633, MB VIA 694T, ATX	128 PC133	20.0 UDMA/100	ATI Radeon VE 32Mb AGP	52x	16bit PCI	полн. гар. 2г.	$272	ASCOD	325-15-55	Горьк.
+Celeron 1100A 256K, MB JetWay i185EP-B	128 PC133	20.0 WD UDMA/100	GeForce2 MX400 32Mb	52x		CD-ROM LG, k., m. Genius	$272	Техномания	324-60-98	П.Победы
+Celeron 1400A Tualatin FCPGA 256K cache 100MHz	128 PC133	10.2	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$274	Политехника	528-17-22	Н.черкас.
+Celeron P4 1800 128K cache, Socket-478, 400MHz FSB, MB i845, ATX	128 PC133	20.0 ATA/100	ATI Rage 128 Pro 32Mb, AGP	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$275	РиМ	327-15-02	Академ.
+Celeron 1400A Tualatin FCPGA 256K cache 100MHz	128 PC133	10,2	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$275	РИК	327-34-10	Черныш.
+Celeron 566A FCPGA 128K cache 100MHz	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$275	РИК	327-34-10	Черныш.
+Celeron 1200 256K cache	128	20.4 ATA/100	ATI Radeon 32Mb	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$275	НеваЛайн	110-81-87	Пл.Восст.
+Celeron 1400, MB VIA, ATX	128	30.0	ATI Rage 128 Pro 32Mb	52x	SB 16bit	case ATX, гар. 2г., 5ч. Internet в подарок	$275	СВЕГА-ПЛЮС	325-16-37	Лиг.пр.
+Desc Office Lite Celeron 1100A, MB Gigabyte GA-6IEM, LAN	128 DIMM PC133	20.0 Samsung 5400rpm	onboard	52x	onboard	CD-ROM Samsung, k., m., гар. 1г.	$275	D.S.C. Group	113-76-68	Садовая
+Celeron 1000 MB MSI 6337LE5 i815EP ATX	128 PC133	20.0 ATA/100	32Mb GeForce2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$276	GENESIS	324-99-86	Ч.речка
+Office Professional Celeron 1000	128	20.0 Maxtor 5400rpm	onboard	52x	SB	MB JetWay 615TCF (i815), ATX-235, FDD, CD-ROM LG, изм. конфигур.	$277	СТРОНГ	325-17-94	Елизар.
+Celeron 950A FCPGA 128K cache 100MHz	256 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$277	Политехника	528-17-22	Н.черкас.
+Celeron 1400A Tualatin FCPGA 256K cache 100MHz	128 PC133	10.2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$277	Политехника	528-17-22	Н.черкас.
+Celeron 1400A Tualatin FCPGA 256K cache, 100MHz, MB VIA Apollo Pro, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$278	РиМ	325-35-35	Владим.
+Celeron 800A FCPGA 128K cache 100MHz	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$278	РИК	327-34-10	Черныш.
+Celeron 1400A Tualatin FCPGA 256K cache 100MHz	128 PC133	10,2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$278	РИК	327-34-10	Черныш.
+Celeron 1300A Tualatin FCPGA 256K cache 100MHz	256 PC133	10.2	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$278	Политехника	528-17-22	Н.черкас.
+Celeron 1300A Tualatin FCPGA 256K cache 100MHz	256 PC133	10,2	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$279	РИК	327-34-10	Черныш.
+Celeron 950A FCPGA 128K cache 100MHz	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$280	РИК	327-34-10	Черныш.
+Celeron P4 1700 128K cache	128	10.4 ATA/100	16Mb 3D	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$280	НеваЛайн	110-81-87	Пл.Восст.
+Celeron 1300, MB VIA, ATX	128	30.0	GeForce4 MX400 32Mb	52x	SB 16bit	ATX, гар. 2г., 5ч. Internet в подарок	$280	СВЕГА-ПЛЮС	259-91-07	Техн.и-т
+Celeron 1300A Tualatin FCGA 256K cache 100MHz, MB VIA Apollo Pro, ATX	128 PC133	40.0 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., любые изм. конфиг., подарок - акт. колонки, доставка б/п, TopPlan в подарок!	$281	КИМОР	321-68-88	Пионер.
+Celeron P4 1700 128K cache, Socket-478, 400MHz FSB, MB i845, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$283	РиМ	325-77-74	Ладожск.
+Celeron 1100A Tualatin FCPGA 100MHz	256 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$283	Политехника	528-17-22	Н.черкас.
+Celeron 1000A Tualatin FCPGA 100MHz	256 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$285	РИК	327-34-10	Черныш.
+Celeron P4 1700 128K Socket-478, MB Elite group SiS 650GL	128 DDR	40.0 Maxtor 5400rpm	onboard 3D		AC'97	ATX, k., m., полн. гар. 1.5г.	$285	ЭЛИКА+	325-86-41	Техн.и-т
+Celeron P4 1700 (400), MB VIA KT266 (478), ATX	256 PC133	10.0 ATA/100	Riva TNT2 32Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$285	GENESIS	324-99-86	Ч.речка
+Celeron P4 1700 128K	128	10.4 ATA/100	AGP 3D 16Mb	48x	SB 3D	гар. до 3лет, в подарок - TopPlan!, люб. конф.	$285	НеваЛайн	164-53-77	Пл.Восст.
+Celeron 1100A Tualatin FCPGA 100MHz	256 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$286	РИК	327-34-10	Черныш.
+Celeron 1200A Tualatin FCPGA 256K cache 100MHz	256 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$287	Политехника	528-17-22	Н.черкас.
+Celeron 1200A Tualatin FCPGA 256K cache 100MHz	256 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$288	РИК	327-34-10	Черныш.
+Celeron P4 1700 128K cache, Socket-478, 400MHz FSB, MB i845, ATX	128 DDR	20.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$289	РиМ	325-35-35	Владим.
+Celeron P4 1700, MB i845, Socket-478	128 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$289	Политехника	528-17-22	Н.черкас.
+Celeron 1700	128 PC133	20.5 Maxtor	GeForce2 MX200 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$290	IN-Tech	224-17-81	Пл.Лен.
+Celeron 1300, MB JetWay 603	128 DIMM	20.0	8-64Mb	48x-52x	SB	case ATX, k. 9901, m. NetScroll	$290	ATS Plus	327-52-99	Петр.
+Celeron 1700, MB SIS	128	30.0	ATI Rage 128 32Mb	52x	onboard	ATX, гар. 2г., 5ч. Internet в подарок	$290	СВЕГА-ПЛЮС	372-15-77	Лен.пр.
+Celeron P4 1700, MB i845, Socket-478	128 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$291	РИК	327-34-10	Черныш.
+Celeron 1300A Tualatin FCPGA 256K cache 100MHz	256 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$292	Политехника	528-17-22	Н.черкас.
+Celeron 1100A Tualatin FCPGA 100MHz	256 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$292	Политехника	528-17-22	Н.черкас.
+Celeron 1300A Tualatin FCPGA 256K cache 100MHz	256 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$293	РИК	327-34-10	Черныш.
+Celeron 1000A Tualatin FCPGA 100MHz	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$294	РИК	327-34-10	Черныш.
+Celeron 1000A Tualatin FCPGA 128K cache, 100MHz, MB VIA Apollo Pro, ATX	256 PC133	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$295	РиМ	327-20-20	Озерки
+Celeron 1100A Tualatin FCPGA 100MHz	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$295	РИК	327-34-10	Черныш.
+Celeron 1100 Tualatin 256K, MB i815EP (Tualatin) ATX	256 PC133	40.0 ATA/100	64Mb GeForce2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$295	GENESIS	324-99-87	Ч.речка
+Celeron 1200 100MHz, MB Manli i815 EP\M	128 DIMM	20.0	GeForce2 MX200 32Mb	52x	AC'97	Case MidiTower 235W, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$295	ТЕХНОСИЛА	320-18-22	Пл.Муж.
+Celeron 1200 100MHz, MB Manli i815 EP\M	128 DIMM	20.0	GeForce2 MX200 32Mb	52x	AC'97	Case MidiTower 235W, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$295	ТЕХНОСИЛА	322-92-64	Петр.
+Celeron P4 1700, MB JetWay P4XFB	128 PC133	20.0 WD UDMA/100	GeForce2 MX400 64Mb	52x		CD-ROM LG, k., m. Genius	$295	Техномания	327-97-24	Фрунз.
+Celeron 1100 Tualatin FCPGA 128K cache, 100MHz, MB VIA Apollo Pro, ATX	256 PC133	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$296	РиМ	327-20-20	Озерки
+Celeron 1200 Tualatin	128	20.0	onboard	52x	SB 16	в подарок - модем 56K	$296	КИТ	542-81-58	Пл.А.Нев.
+Celeron 1200A Tualatin FCPGA 256K cache 100MHz	256 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$296	Политехника	528-17-22	Н.черкас.
+Celeron 1200A Tualatin FCPGA 256K cache 100MHz	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$297	РИК	327-34-10	Черныш.
+Celeron 1100 Tualatin TFC 100MHz 256K cache	128 SDRAM PC133	30.0 Samsung ATA/100	Gigabyte Radeon 7500LE 64Mb SDRAM TV-out	52x	AC'97	ATX MiddleTower 235W, k. Chicony	$298	CONCOM	320-90-80	Садовая
+Celeron 1400A Tualatin FCPGA 256K cache 100MHz	256 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$298	Политехника	528-17-22	Н.черкас.
+Celeron P4 1800 128K cache, Socket-478, 400MHz FSB, MB i845, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$299	РиМ	325-77-74	Ладожск.
+Celeron 1200A Tualatin FCPGA 256K cache, 100MHz, MB VIA Apollo Pro, ATX	256 PC133	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$299	РиМ	327-20-20	Озерки
+Celeron 1700	128	30.0 Maxtor 7200rpm	32Mb	52x	SB 3D	CD-ROM Samsung, Sound, k., m., гар., доставка, подключение	$300	SVL	553-55-87	Удельн.
+Celeron 1700, MB SIS	128	30.0	GeForce2 MX400 32Mb	52x	onboard	ATX, гар. 2г., 5ч. Internet в подарок	$300	СВЕГА-ПЛЮС	259-91-07	Техн.и-т
+Celeron 1200 Tualatin, 100MHz, Box	128 DDR PC2100	40.2 UDMA/100	GeForce MX400 64Mb	48x-52x	SB 16 AC'97	CD-ROM Samsung/Acer, корпус ATX 250W, гар., б/вых.	$300	Server-Comp	327-21-38	Г.Д.
+Celeron 1700	128 PC133	41.0 Maxtor	GeForce2 MX400 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$301	IN-Tech	533-43-03	Академ.
+Celeron P4 1800, MB i845 Socket-478	128 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$302	РИК	327-34-10	Черныш.
+Celeron 1400A Tualatin FCPGA 256K cache 100MHz	256 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$302	РИК	327-34-10	Черныш.
+Celeron 1200A Tualatin FCPGA 256K cache 100MHz	512 PC133	20.5	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$303	Политехника	528-17-22	Н.черкас.
+Celeron 1200A Tualatin FCPGA 256K cache 100MHz	512 PC133	20,5	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$304	РИК	327-34-10	Черныш.
+Celeron 1400 Tualatin 256K, MB Chaintech i815EP, ATX	128 PC133	40.0 ATA/100	GeForce2 32Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$304	GENESIS	324-99-87	Ч.речка
+Celeron P4 1800 (400), MB VIA KT266 (478) ATX	256 PC133	10.0 ATA/100	Riva TNT2 32Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$304	GENESIS	324-99-87	Ч.речка
+Celeron P4 1700	128	30.0 ATA/100	GeForce2 MX 32Mb	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., кредит	$305	DNK	279-18-25	Пл.Восст.
+Celeron P4 1800 128K cache, Socket-478, 400MHz FSB, MB i845, ATX	128 DDR	20.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$305	РиМ	325-35-35	Владим.
+Celeron 1300 Tualatin 256K, MB Chaintech i815EP ATX	256 PC133	40.0 ATA/100	64Mb GeForce2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$305	GENESIS	324-99-86	Ч.речка
+Celeron 1200 FCPGA, MB i815A, S370	128	20.0	GeForce2 MX400 32Mb	56x	AC'97	люб. измен. конфиг., гар от 1г., техн. обслужив., апгрейд	$305	ВИЛКОМ+	325-37-45	Нарвск.
+Celeron 1000, MB VIA 694	128 PC133	20.0 ATA/100	GeForce2 MX400 32Mb	52x	16bit	k., m., любые конфигур., upgrade	$305	МЕРИДИАН	322-64-96	Лесная
+Celeron 1800, MB SIS	128	30.0	ATI Rage 128 32Mb	52x	onboard	ATX, гар. 2г., 5ч. Internet в подарок	$305	СВЕГА-ПЛЮС	112-36-61	Лиг.пр.
+Celeron P4 1800, MB i845 Socket-478	128 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$305	Политехника	528-17-22	Н.черкас.
+Celeron 1300A Tualatin FCPGA 256K cache, 100MHz, MB VIA Apollo Pro, ATX	256 PC133	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$306	РиМ	327-20-20	Озерки
+Celeron 1400A Tualatin FCPGA 256K cache 100MHz	256 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$307	Политехника	528-17-22	Н.черкас.
+Celeron P4 1700	128	30.0 ATA/100	GeForce2 MX 64Mb	52x	AC'97	case ATX, k., m., люб. изм., б/вых., кредит	$308	DNK	279-18-25	Пл.Восст.
+Celeron P4 1700, MB i845, Socket-478	256 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$308	Политехника	528-17-22	Н.черкас.
+ASCoD Explorer V Celeron P4 1700, MB i845GL	128 DDR PC2100	20.0 UDMA/100	Intel GL, onboard	52x	16bit PCI	полн. гар. 2г.	$309	ASCOD	325-15-55	Горьк.
+Celeron P4 1700 128K cache	128	20.4 ATA/100	ATI Radeon 32Mb	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$310	НеваЛайн	110-81-87	Пл.Восст.
+Celeron 1400A Tualatin FCPGA 256K cache 100MHz	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$311	РИК	327-34-10	Черныш.
+Celeron P4 1700	256	30.0 ATA/100	GeForce2 MX 32Mb	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., кредит	$312	DNK	279-18-25	Пл.Восст.
+Celeron P4 1700, MB i845, Socket-478	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$313	РИК	327-34-10	Черныш.
+Celeron P4 1700	128	40.0 ATA/100	GeForce2 MX 32Mb	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., кредит	$314	DNK	279-18-25	Пл.Восст.
+Celeron P4 2000 128K cache, Socket-478, 400MHz FSB, MB i845, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$314	РиМ	325-77-74	Ладожск.
+Celeron P4 1700	256	30.0 ATA/100	GeForce2 MX 64Mb	52x	AC'97	case ATX, k., m., люб. изм., б/вых., кредит	$315	DNK	279-18-25	Пл.Восст.
+Celeron 1400A Tualatin FCPGA 256K cache, 100MHz, MB VIA Apollo Pro, ATX	256 PC133	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$315	РиМ	327-20-20	Озерки
+Celeron 1000, MB ASUS TUSL2-C i815EP S370, ATX	256 PC133	40.0 Seag. 7200rpm	64Mb GeForce2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$315	GENESIS	324-99-86	Ч.речка
+Celeron 1800, MB SIS	128	30.0	GeForce4 MX400 32Mb	52x	onboard	ATX, гар. 2г., 5ч. Internet в подарок	$315	СВЕГА-ПЛЮС	112-36-61	Лен.пр.
+Celeron P4 1700	128	40.0 ATA/100	GeForce2 MX 64Mb	52x	AC'97	case ATX, k., m., люб. изм., б/вых., кредит	$317	DNK	279-18-25	Пл.Восст.
+Celeron P4 2000 Socket-478, MB i845	128 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$317	РИК	327-34-10	Черныш.
+Celeron P4 2000 (400), MB VIA KT266 (478), ATX	256 PC133	10.0 ATA/100	Riva TNT2 32Mb	52x	SB 16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$317	GENESIS	324-99-86	Ч.речка
+Celeron 1300 Tualatin 256K, MB MSI 6337LE5 i815EP ATX	256 PC133	40.0 Seag. 7200rpm	64Mb GeForce2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$318	GENESIS	324-99-87	Ч.речка
+Celeron P4 1800 128K	128	20.4 ATA/100	ATI Radeon 32Mb	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$318	НеваЛайн	110-81-87	Пл.Восст.
+Celeron 1200A Tualatin FCPGA 256K cache 100MHz	512 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$318	Политехника	528-17-22	Н.черкас.
+Celeron 1200A Tualatin FCPGA 256K cache 100MHz	512 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$319	РИК	327-34-10	Черныш.
+ASCoD Explorer 5000 Celeron4-1700, Socket-478, MB VIA chipset	128 DDR PC2100	20.0 UDMA/100	ATI Radeon VE 32Mb AGP	52x	16bit, PCI	полн. гар. 2г.	$319	ASCOD	325-15-55	Горьк.
+Celeron P4 1800	128	30.0 ATA/100	GeForce2 MX 32Mb	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых.	$320	DNK	279-18-25	Пл.Восст.
+Celeron P4 2000 128K cache, Socket-478, 400MHz FSB, MB i845, ATX	128 DDR	20.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$320	РиМ	325-35-35	Владим.
+Celeron P4 1700	256	40.0 ATA/100	GeForce2 MX 32Mb	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., кредит	$321	DNK	279-18-25	Пл.Восст.
+Celeron P4 1800	128	30.0 ATA/100	GeForce2 MX 64Mb	52x	AC'97	case ATX, k., m., люб. изм., б/вых.	$323	DNK	279-18-25	Пл.Восст.
+ASCoD Navigator Celeron 1300	128 PC133	20.0 UDMA/100	GeForce MX400 64Mb AGP	52x	16bit PCI	CD-ROM Sony, полн. гар. 2г.	$323	ASCOD	325-15-55	Горьк.
+Celeron P4 1700	256	40.0 ATA/100	GeForce2 MX 64Mb	52x	AC'97	case ATX, k., m., люб. изм., б/вых., кредит	$324	DNK	279-18-25	Пл.Восст.
+Celeron P4 1800, MB i845 Socket-478	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$324	РИК	327-34-10	Черныш.
+Celeron P4 1800, MB i845 Socket-478	256 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$324	Политехника	528-17-22	Н.черкас.
+Celeron 1700, MB JetWay P4XFA	128 DDR	20.0	GeForce 32Mb	48x-52x	SB	case ATX 250W, k. 9901, m. NetScroll	$325	ATS Plus	327-52-07	Петр.
+Celeron 1400 Tualatin 256K, MB MSI 6337LE5 i815EP, ATX	256 PC133	40.0 Seag. 7200rpm	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$328	GENESIS	324-99-86	Ч.речка
+Celeron P4 1800	256	30.0 ATA/100	GeForce2 MX 64Mb	52x	AC'97	case ATX, k., m., люб. изм., б/вых.	$330	DNK	279-18-25	Пл.Восст.
+Celeron P4 1700	128	30.0 ATA/100	GeForce4 MX 64Mb, +TV-out	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$330	DNK	279-18-25	Пл.Восст.
+Celeron P4 1800	128	40.0 ATA/100	GeForce2 MX 64Mb	52x	AC'97	case ATX, k., m., люб. изм., б/вых.	$332	DNK	279-18-25	Пл.Восст.
+Celeron P4 2000	128	30.0ATA/100	GeForce2 MX 32Mb	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$332	DNK	279-18-25	Пл.Восст.
+Celeron P4 1700 400MHz, MB i845D ATX	128 DDR	40.0 ATA/100	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$333	GENESIS	324-99-87	Ч.речка
+Celeron 1700, MB VIA P4X266	128 DDR	30.0 7200rpm	GeForce2 MX400 64Mb	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$334	Стэл ЛТД	164-31-27	Лиг.пр.
+Celeron P4 2000	128	30.0ATA/100	GeForce2 MX 64Mb	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$335	DNK	279-18-25	Пл.Восст.
+Celeron P4 1800	256	40.0 ATA/100	GeForce2 MX 32Mb	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых.	$336	DNK	279-18-25	Пл.Восст.
+Celeron P4 1700 Socket-478	256 DDR	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$336	РИК	327-34-10	Черныш.
+Celeron P4 1700	256	30.0 ATA/100	GeForce4 MX 64Mb, +TV-out	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$337	DNK	279-18-25	Пл.Восст.
+Celeron P4 1700 Socket-478	256 DDR	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$338	Политехника	528-17-22	Н.черкас.
+Celeron P4 1800	256	40.0 ATA/100	GeForce2 MX 64Mb	52x	AC'97	case ATX, k., m., люб. изм., б/вых.	$339	DNK	279-18-25	Пл.Восст.
+Celeron P4 2000	256	30.0ATA/100	GeForce2 MX 32Mb	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$339	DNK	279-18-25	Пл.Восст.
+Celeron P4 1700	128	40.0 ATA/100	GeForce4 MX 64Mb, +TV-out	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$339	DNK	279-18-25	Пл.Восст.
+Celeron P4 2000 Socket-478, MB i845	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$339	РИК	327-34-10	Черныш.
+Celeron 1800, MB JetWay P4XFA	128 DDR	20.0	GeForce 32Mb	48x-52x	SB	case ATX 250W, k. 9901, m. NetScroll	$340	ATS Plus	327-52-99	Петр.
+Celeron P4 2000	128	40.0ATA/100	GeForce2 MX 32Mb	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$341	DNK	279-18-25	Пл.Восст.
+Celeron P4 2000	256	30.0ATA/100	GeForce2 MX 64Mb	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$342	DNK	279-18-25	Пл.Восст.
+Celeron P4 1700, MB JetWay P4XFB	256 PC133	40.0 WD UDMA/100	GeForce4 MX440 64Mb TV-out	52x		CD-ROM LG, k., m. Genius	$342	Техномания	324-60-98	П.Победы
+Celeron 1300 100MHz, MB MS-6337 LE5	256 DIMM	20.0	GeForce2 MX200 32Mb	52x	AC'97	case MidiTower 250W, CD-ROM Sony, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$343	ТЕХНОСИЛА	320-18-22	Пл.Муж.
+Celeron 1300 100MHz, MB MS-6337 LE5	256 DIMM	20.0	GeForce2 MX200 32Mb	52x	AC'97	CD-ROM Sony, Case MidiTower 250W, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$343	ТЕХНОСИЛА	322-92-64	Петр.
+Celeron P4 2000	128	40.0ATA/100	GeForce2 MX 64Mb	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$344	DNK	279-18-25	Пл.Восст.
+Celeron P4 1800	128	30.0ATA/100	GeForce4 MX 64Mb, +TV-out	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$345	DNK	279-18-25	Пл.Восст.
+Celeron P4 1700 Socket-478	256 DDR	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$345	РИК	327-34-10	Черныш.
+Celeron P4 1700	256	40.0 ATA/100	GeForce4 MX 64Mb, +TV-out	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$346	DNK	279-18-25	Пл.Восст.
+Celeron P4 1800 Socket-478	256 DDR	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$347	РИК	327-34-10	Черныш.
+Celeron P4 1700 Socket-478	256 DDR	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$347	Политехника	528-17-22	Н.черкас.
+Celeron P4 2000	256	40.0ATA/100	GeForce2 MX 32Mb	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$348	DNK	279-18-25	Пл.Восст.
+Celeron P4 1700, MB i845D	128 DDR	40.0 WD UDMA/100	GeForce2 MX400 64Mb TV-out	52x		CD-ROM LG, k., m. Genius	$348	Техномания	327-07-38	Фрунз.
+Celeron 1000A Tualatin FCPGA 128K cache, 100MHz, MB VIA Apollo Pro, ATX	512 PC133	60.0 Seagate 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$349	РиМ	153-83-65	Лен.пр.
+Celeron P4 1700 128K cache, Socket-478, 400MHz FSB, MB i845, ATX	512 PC133	60.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$349	РиМ	327-20-20	Озерки
+Celeron 800, MB VIA PLE133 (370) ATX	128 PC133	10.0 ATA/100	onboard 3D, monitor 15" CTX	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$349	GENESIS	324-99-86	Ч.речка
+Celeron 1100 Tualatin FCPGA 128K cache, 100MHz, MB VIA Apollo Pro, ATX	512 PC133	60.0 Seagate 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$350	РиМ	153-83-65	Лен.пр.
+Celeron 1200 Tualatin, 100MHz, Box	128 PC133 Hyundai	40.2 UDMA/100	GeForce MX400 64Mb	48x-52x	SB 16 AC'97	CD-ROM Samsung/Acer, корпус ATX 250W, + монитор 15" 800x600/85Hz, TCO'95, гар., б/вых.	$350	Server-Comp	327-21-38	Г.Д.
+Celeron P4 2000	256	40.0ATA/100	GeForce2 MX 64Mb	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$351	DNK	279-18-25	Пл.Восст.
+Celeron P4 1800 400MHz FSB, MB i845D ATX	128 DDR	40.0 ATA/100	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$351	GENESIS	324-99-87	Ч.речка
+Celeron P4 1800	256	30.0ATA/100	GeForce4 MX 64Mb, +TV-out	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$352	DNK	279-18-25	Пл.Восст.
+Celeron 1800, ATX	256	40.0	GeForce2 MX400, 64Mb		SB 16	Выбор конфигур., б/вых., гар. 3г.	$353	1001РС	560-92-43	Ломонос.
+Celeron 1200A Tualatin FCPGA 256K cache, 100MHz, MB VIA Apollo Pro, ATX	512 PC133	60.0 Seagate 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$353	РиМ	153-83-65	Лен.пр.
+Celeron P4 1800	128	40.0ATA/100	GeForce4 MX 64Mb, +TV-out	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$354	DNK	279-18-25	Пл.Восст.
+Celeron 900, MB VIA PLE133 (370) ATX	256 PC133	20.0 ATA/100	onboard 3D, 17"	на выбор	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$354	GENESIS	324-99-87	Ч.речка
+Celeron P4 1800 Socket-478	256 DDR	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$354	Политехника	528-17-22	Н.черкас.
+Celeron P4 1800 Socket-478	256 DDR	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$356	РИК	327-34-10	Черныш.
+Celeron P4 1700 128K cache Socket-478, MB MS-6526GL i845GL	128 DDR	40.0 IBM 7200rpm	onboard 3D	52x	AC'97	CD-ROM MSI, CodeGen 300W case, FDD Sony, k., m., полн. гар. 1.5г.	$356	ЭЛИКА+	325-86-41	Техн.и-т
+Celeron P4 2000	128	30.0ATA/100	GeForce4 MX 64Mb, +TV-out	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$357	DNK	279-18-25	Пл.Восст.
+Celeron 1300A Tualatin FCPGA 256K cache, 100MHz, MB VIA Apollo Pro, ATX	512 PC133	60.0 Seagate 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$360	РиМ	153-83-65	Лен.пр.
+Celeron 1200, MB i815, ATX	256	40.0 7200rpm	GeForce2 MX400 32Mb	56x	SB Live 5.1	люб. измен. конфиг., гар от 1г., техн. обслужив., upgrade	$360	ВИЛКОМ+	325-37-45	Нарвск.
+Celeron P4 1800	256	40.0ATA/100	GeForce4 MX 64Mb, +TV-out	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$361	DNK	279-18-25	Пл.Восст.
+Celeron 850, MB VIA PLE133 (370) ATX	256 PC133	10.0 ATA/100	onboard 3D, monitor 15" CTX	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$361	GENESIS	324-99-87	Ч.речка
+Celeron 1000T 256K, MB ASUS TUSL2-C i815EP ATX S370	128 PC133	40.0 IBM 7200rpm	GeForce2 64Mb	52x	16bit	гар. 2г.	$361	BeeBee comp.	596-59-75	Ч.речка
+Celeron P4 2000 Socket-478	256 DDR	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$362	РИК	327-34-10	Черныш.
+Celeron P4 1800 Socket-478	256 DDR	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$363	Политехника	528-17-22	Н.черкас.
+Celeron P4 2000	256	30.0ATA/100	GeForce4 MX 64Mb, +TV-out	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$364	DNK	279-18-25	Пл.Восст.
+Celeron P4 2000 (400), MB i845D, ATX	128 DDR	40.0 ATA/100	GeForce2 64Mb	52x	SB 16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$364	GENESIS	324-99-87	Ч.речка
+Celeron P4 1700 128K cache, Socket-478, 400MHz FSB, MB i845, ATX	256 DDR	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$365	РиМ	153-83-65	Лен.пр.
+Celeron P4 1800 128K cache, Socket-478, 400MHz FSB, MB i845, ATX	512 PC133	60.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$365	РиМ	327-20-20	Озерки
+Celeron P4 2000	128	40.0ATA/100	GeForce4 MX 64Mb, +TV-out	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$366	DNK	279-18-25	Пл.Восст.
+Celeron 2000, MB VIA P4X266	128 DDR	30.0 7200rpm	GeForce2 MX400 64Mb	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$367	Стэл ЛТД	164-31-27	Лиг.пр.
+Celeron 1400A Tualatin FCPGA 256K cache, 100MHz, MB VIA Apollo Pro, ATX	512 PC133	60.0 Seagate 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$368	РиМ	153-83-65	Лен.пр.
+Celeron 1300, MB Gigabyte	256 SDRAM	40.0 WD	GeForce2 MX400 64Mb	52x	Sound	CD-ROM Sony, MidiTower ATX, колонки и антивирусная программа Dr.Web - б/п!, гар. 2г.	$370	ДИАЛОГ ИТ	327-22-87	Садовая
+Celeron P4 2000 Socket-478	256 DDR	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$371	РИК	327-34-10	Черныш.
+Celeron P4 2000	256	40.0ATA/100	GeForce4 MX 64Mb, +TV-out	52x	AC'97	ATX корпус, k., m., люб. изм., б/вых., торгуем в кредит	$373	DNK	279-18-25	Пл.Восст.
+Celeron P4 2000 128K cache, Socket-478, 400MHz FSB, MB i845, ATX	512 PC133	60.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$380	РиМ	327-20-20	Озерки
+Celeron P4 1800 128K cache, Socket-478, 400MHz FSB, MB i845, ATX	256 DDR	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$381	РиМ	153-83-65	Лен.пр.
+Celeron P4 1700 128K cache	256	40.4 ATA/100	GeForce4 64Mb AGP super 3D	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$386	НеваЛайн	110-81-87	Пл.Восст.
+Celeron 1400 100MHz, MB MicroStar MS-6337 LE5	256 DIMM	40.0 IBM 7200rpm	GeForce2 MX440 64Mb	52x	AC'97	case MidiTower 250W, CD-ROM Sony, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$386	ТЕХНОСИЛА	320-18-22	Пл.Муж.
+Celeron 1400 100MHz, MB MicroStar MS-6337 LE5	256 DIMM	40.0 IBM 7200rpm	GeForce2 MX440 64Mb	52x	AC'97	case MidiTower 250W, CD-ROM Sony, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$386	ТЕХНОСИЛА	322-92-64	Горьк.
+Celeron P4 1700 128K cache, Socket-478, 400MHz FSB, MB i845, ATX	256 DDR	60.0 Seagate 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$393	РиМ	325-06-22	Н.черкас.
+Celeron 1700, MB VIA P4X266	256 DDR	30.0 7200rpm	ATI Radeon 9000 64Mb DDR, DVI, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$393	Стэл ЛТД	164-31-27	Лиг.пр.
+Celeron 1700, MB VIA P4X266	256 DDR	40.0 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$394	Стэл ЛТД	164-31-27	Лиг.пр.
+Celeron P4 2000 128K cache, Socket-478, 400MHz FSB, MB i845, ATX	256 DDR	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$396	РиМ	153-83-65	Лен.пр.
+Celeron 950, MB Chaintech i815EP ATX	128 PC133	20.0 ATA/100	32Mb GeForce2, monitor 15" CTX	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$398	GENESIS	324-99-87	Ч.речка
+Celeron 1700 128K cache 400MHz Socket-478	128 DDR 266MHz SEC	40.0 WD 7200rpm	GeForce4 MX420 64Mb	52x	onboard	CD-ROM Mitsumi, гар. 3г., б/п дост.	$400	КВАНТ-НЕВА	274-03-02	Пл.Восст.
+Celeron 1800 Socket-478 128K, 400MHz FSB	256	40.0 7200rpm	GeForce2 MX400 64Mb	56x	AC'97	люб. измен. конфиг., гар от 1г., техн. обслужив., upgrade	$403	ВИЛКОМ+	325-37-45	Нарвск.
+Celeron P4 2000 (400), MB MicroStar MS-6566, ATX	256 DDR	40.0 ATA/100	GeForce2 64Mb	52x	SB 16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$408	GENESIS	324-99-86	Ч.речка
+Celeron P4 1800 128K cache, Socket-478, 400MHz FSB, MB i845, ATX	256 DDR	60.0 Seagate 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$409	РиМ	325-06-22	Н.черкас.
+Celeron 1300 Tualatin 256K, MB i815EP (Tualatin) ATX	128 PC133	20.0 ATA/100	32Mb GeForce2, 17"	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$412	GENESIS	324-99-87	Ч.речка
+Celeron 1800 128K cache 400MHz Socket-478	128 DDR 266MHz SEC	40.0 WD 7200rpm	GeForce4 MX420 64Mb	52x	onboard	CD-ROM Mitsumi, гар. 3г., б/п дост.	$415	КВАНТ-НЕВА	274-02-00	Пл.Восст.
+Celeron 1400 Tualatin 256K, MB i815EP (Tualatin) ATX	128 PC133	20.0 ATA/100	Riva TNT2 32Mb, 17"	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$416	GENESIS	324-99-86	Ч.речка
+Celeron 800, MB Chaintech 815EP ATX	128 PC133	40.0 ATA/100	GeForce2 32Mb, 17"	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$420	GENESIS	324-99-87	Ч.речка
+Celeron 1700, MB VIA P4X266	256 DDR	61.0 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$423	Стэл ЛТД	164-31-27	Лиг.пр.
+Celeron P4 2000 128K cache, Socket-478, 400MHz FSB, MB i845, ATX	256 DDR	60.0 Seagate 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$424	РиМ	325-06-22	Н.черкас.
+Celeron 2000, MB VIA P4X266	256 DDR	30.0 7200rpm	ATI Radeon 9000 64Mb DDR, DVI, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$426	Стэл ЛТД	164-31-27	Лиг.пр.
+Celeron 2000, MB VIA P4X266	256 DDR	40.0 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$427	Стэл ЛТД	164-31-27	Лиг.пр.
+Celeron 2000 128K, FSB 400MHz, S478	128 DDR 266MHz SEC	40.0 WD 7200rpm	GeForce4 MX420 64Mb	52x	onboard	CD-ROM Mitsumi, гар. 3г., б/п доставка	$432	КВАНТ-НЕВА	274-03-02	Пл.Восст.
+Desc Home Lite Celeron 1300A, MB ASUS TUSL2-C i815E-B	256 DIMM PC133	40.0 Samsung 5400rpm	ASUS GeForce2 MX400 64Mb	52x	Creative SB Live 5.1	CD-ROM Samsung, k., m., гар. 1г.	$438	D.S.C. Group	113-76-68	Садовая
+HP e-pc 42 Celeron 800M	128	20.0		DVD	AC'97	б/п доставка	$450	ИНТЕГРАТОР	140-71-40	Елизар.
+Celeron 800, MB Chaintech i815EP	128 DIMM	40.0 ATA/100	GeForce 32Mb, 17" Samsung	52x	16bit	гар. 2г.	$452	BeeBee comp.	596-59-75	Ч.речка
+Celeron 2000, MB VIA P4X266	256 DDR	61.0 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$456	Стэл ЛТД	164-31-27	Лиг.пр.
+Celeron 800, MB Chaintech i815EP	128 DIMM	40.0 ATA/100	GeForce 32Mb, 17" Samsung	52x	16bit	гар. 2г.	$460	КЦ Паркан	596-56-65	Гражд.пр.
+Celeron 1700 400MHz, MB MS-6566 i845D S478	256 DDR	40.0 IBM 7200rpm	GeForce2 MX400 64Mb	52x	AC'97	Case CodeGen 6xxx 300W, CD-ROM Sony, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$462	ТЕХНОСИЛА	320-18-22	Пл.Муж.
+Celeron 1700 400MHz, MB MS-6566 i845D S478	256 DDR	40.0 IBM 7200rpm	GeForce2 MX400 64Mb	52x	AC'97	CD-ROM Sony, case CodeGen 6xxx 300W, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$462	ТЕХНОСИЛА	322-92-64	Петр.
+Celeron 1200 Tualatin 256K, MB Chaintech i815EP ATX	256 PC133	20.0 ATA/100	GeForce2 64Mb, Samsung 17" плоский 0.24	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$465	GENESIS	324-99-87	Ч.речка
+Celeron 1000, MB Chaintech i815EP ATX	128 PC133	40.0 ATA/100	64Mb GeForce2, Samsung 17" 0.24 плоский	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$472	GENESIS	324-99-87	Ч.речка
+Celeron 1400 Tualatin 256K, MB ASUS TUSL2-C i815EP, ATX, S370	256 PC133	40.0 Seag. 7200rpm	GeForce2 64Mb, Samsung 17" плоский 0.24	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$512	GENESIS	324-99-86	Ч.речка
+Celeron 1800 400MHz, MB MS-6566 i845D S478	256 DDR	60.0 IBM 7200rpm	GeForce4 MX440 64Mb TV-out	52x	AC'97	Case CodeGen 6xxx 300W, CD-ROM Sony, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$529	ТЕХНОСИЛА	320-18-22	Пл.Муж.
+Celeron 1800 400MHz, MB MS-6566 i845D S478	256 DDR	60.0 IBM 7200rpm	GeForce4 MX440 64Mb TV-out	52x	AC'97	CD-ROM Sony, case CodeGen 6xxx 300W, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$529	ТЕХНОСИЛА	322-92-64	Петр.
+Celeron 1000 MB MSI 6337LE5 i815EP ATX	256 PC133	40.0 Seag. 7200rpm	64Mb GeForce2, 17" LGF700P+ плоский 0.24	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$539	GENESIS	324-99-87	Ч.речка
+Desc Home Medium Celeron 1700, MB Gigabyte GA-8PE667 Ultra i845PE, FSB 400/533, USB 2.0	256 DDR PC2700	40.0 Samsung 7200rpm	ABIT Siluro GeForce4 MX440 64Mb DDR	52x	onboard	CD-ROM Samsung, корпус INWIN A500, k., m., гар. 1г.	$539	D.S.C. Group	113-76-68	Садовая
+Celeron 2000 400MHz, MB MS-6566 i845D S478	256 DDR	80.0 IBM 7200rpm	GeForce4 MX440 64Mb TV-out	52x	AC'97	case CodeGen 6xxx 300W, CD-ROM Sony, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$571	ТЕХНОСИЛА	320-18-22	Пл.Муж.
+Celeron 2000 400MHz, MB MS-6566 i845D S478	256 DDR	80.0 IBM 7200rpm	GeForce4 MX440 64Mb TV-out	52x	AC'97	case CodeGen 6xxx 300W, CD-ROM Sony, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$571	ТЕХНОСИЛА	322-92-64	Петр.
+P-III-733 Coppermine FCPGA 256K cache 133MHz, MB VIA Apollo Pro ATX	64 PC133	10.2 ATA/100	8Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!	$228	РиМ	325-35-35	Владим.
+P-III-733 Coppermine, MB VIA Apollo Pro	128 DIMM	10.2 ATA/100	onboard	52x	16bit	гар. 2г.	$243	BeeBee comp.	596-59-75	Ч.речка
+P-III-733 Coppermine, MB VIA Appolo Pro	128 DIMM	10.2 ATA/100	onboard	52x	16bit	гар. 2г.	$250	КЦ Паркан	596-56-65	Гражд.пр.
+P-III-733 Coppermine FCPGA 133MHz	128 DIMM	20.0 Maxtor 5400rpm	onboard		onboard	гар. 3г., б/п дост.	$269	КВАНТ-НЕВА	274-02-00	Пл.Восст.
+P-III-866 Coppermine FCPGA	128 DIMM	20.0 Maxtor 5400rpm	onboard		onboard	гар. 3г., б/п дост.	$277	КВАНТ-НЕВА	274-03-02	Пл.Восст.
+P-III-1133 Tualatin OEM	128 DIMM	40.0 Seagate 5400rpm	onboard		onboard	гар. 3г., б/п дост.	$290	КВАНТ-НЕВА	274-02-00	Пл.Восст.
+P-III-733 Coppermine FCPGA 256K cache 133MHz, MB VIA Apollo Pro ATX	128 PC133	30.0 ATA/100	ATI Rage 128 Pro 32Mb, AGP	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!	$297	РиМ	327-20-20	Озерки
+P-III-866 Coppermine FCPGA 256K cache 133MHz, MB VIA Apollo Pro ATX	128 PC133	30.0 ATA/100	ATI Rage 128 Pro 32Mb, AGP	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!	$302	РиМ	325-06-22	Н.черкас.
+P-III-1000 Coppermine FCPGA 256K cache 133MHz, MB VIA Apollo Pro ATX	128 PC133	30.0 ATA/100	ATI Rage 128 Pro 32Mb, AGP	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!	$306	РиМ	325-06-22	Н.черкас.
+P-III-1000 Coppermine FCPGA 256K cache 133MHz	128 PC133	10.2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$306	Политехника	528-17-22	Н.черкас.
+P-III-1000 Coppermine FCPGA 256K cache 133MHz	128 PC133	10,2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$307	РИК	327-34-10	Черныш.
+P-III-733 Coppermine, MB JetWay 603	128 DIMM	20.0	8-64Mb	48x-52x	SB	case ATX, k. 9901, m. NetScroll	$310	ATS Plus	327-52-07	Петр.
+P-III-733 Coppermine FCPGA 256K cache 133MHz, MB VIA Apollo Pro ATX	128 PC133	40.0 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!	$312	РиМ	153-83-65	Лен.пр.
+P-III-733 Coppermine 133MHz FSB, FCPGA	128	20.0 7200rpm	onboard 3D	56x	AC'97	люб. измен. конфиг., гар от 1г., техн. обслужив., upgrade	$320	ВИЛКОМ+	325-37-45	Нарвск.
+P-III-1000 Coppermine FCPGA 256K cache 133MHz, MB VIA Apollo Pro ATX	128 PC133	40.0 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!	$321	РиМ	327-20-20	Озерки
+P-III-866 Coppermine FCPGA 256K cache 133MHz, MB VIA Apollo Pro ATX	128 PC133	40.0 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!	$324	РиМ	153-83-65	Лен.пр.
+P-III-1200 Tualatin FCPGA 256K cache 133MHz, MB i815	128 PC133	30.0 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!	$325	РиМ	325-06-22	Н.черкас.
+P-III-866 Coppermine, MB JetWay 603	128 DIMM	20.0	8-64Mb	48x-52x	SB	case ATX, k. 9901, m. NetScroll	$325	ATS Plus	327-52-99	Петр.
+P-III-1000 Coppermine FCPGA 256K cache 133MHz	256 PC133	10.2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$325	Политехника	528-17-22	Н.черкас.
+P-III-1200EB, MB VIA 133A (694), ATX	128 PC133	20.0 ATA/100	Riva TNT2 32Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$327	GENESIS	324-99-87	Ч.речка
+P-III-1000 Coppermine FCPGA 256K cache 133MHz	256 PC133	10,2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$329	РИК	327-34-10	Черныш.
+P-III-1000 Coppermine FCPGA 256K cache 133MHz	128 PC133	20.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$329	Политехника	528-17-22	Н.черкас.
+P-III-1000 Coppermine FCPGA	256 DIMM	20.5 ATA/100	GeForce2 MX400 32Mb	52x	16bit	гар. 2г.	$329	BeeBee comp.	596-59-75	Ч.речка
+P-III-1000 Coppermine FCPGA 256K cache 133MHz	128 PC133	20,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$330	РИК	327-34-10	Черныш.
+P-III-1000 Coppermine, MB JetWay 603	128 DIMM	20.0	8-64Mb	48x-52x	SB	case ATX, k. 9901, m. NetScroll	$335	ATS Plus	327-52-99	Петр.
+P-III-1000 Coppermine FCPGA 256K cache 133MHz	256 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$336	Политехника	528-17-22	Н.черкас.
+P-III-900 Coppermine, MB JW-694	128 DIMM	20.4 ATA/100	GeForce2 MX400 32Mb	52x	16bit	гар. 2г.	$338	BeeBee comp.	596-59-75	Ч.речка
+P-III-1200 Tualatin	256 DIMM PC133	30.0 Maxtor 7200rpm	GeForce2 MX400 64Mb	52x	SB 16bit	Win ME, гар. 3г., доставка, 5 видеофильмов в подарок!	$339	RASAR	272-30-85	Пл.Восст.
+P-III-1000 Coppermine FCPGA 256K cache 133MHz	256 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$340	РИК	327-34-10	Черныш.
+P-III-1000 Coppermine FCPGA	256 DIMM	20.5 ATA/100	GeForce MX400 32Mb	52x	16bit	гар. 2г.	$340	КЦ Паркан	596-56-65	Гражд.пр.
+P-III-1200 Coppermine, MB JetWay 603	128 DIMM	20.0	8-64Mb	48x-52x	SB	case ATX, k. 9901+ m. Netscroll	$345	ATS Plus	327-52-07	Петр.
+P-III-1200 Tualatin FCPGA 256K cache 133MHz, MB i815	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!	$360	РиМ	327-15-02	Академ.
+P-III-900 Coppermine, MB jw-694	128 DIMM	20.4 ATA/100	GeForce MX400 32Mb	52x	16bit	гар. 2г.	$360	КЦ Паркан	596-56-65	Гражд.пр.
+P-III-1200EB, MB Chaintech i815EP ATX	256 PC133	40.0 Seag. 7200rpm	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$380	GENESIS	324-99-87	Ч.речка
+P-III-1133EB, MB Chaintech i815EP ATX	256 PC133	82.0 Seag. 7200rpm	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$395	GENESIS	324-99-87	Ч.речка
+P-III-1200 256K cache 133MHz, MB MS-6315 i815E, ATX	128 PC133	40.0 IBM 7200rpm	onboard i752 3D	52x	AC'97	CD-ROM MSI, CodeGen 300W ATX case, FDD Sony, k., m., полн. гар. 1.5г.	$399	ЭЛИКА+	325-86-41	Техн.и-т
+P-III-866 Coppermine 133MHz FSB, FCPGA	256	40.0 7200rpm	GeForce2 MX400 32Mb	56x	AC'97	люб. измен. конфиг., гар от 1г., техн. обслужив., upgrade	$400	ВИЛКОМ+	325-37-45	Нарвск.
+P-III-1000 Coppermine 133MHz FSB, FCPGA	256	40.0 7200rpm	GeForce2 MX400 32Mb	56x	SB Live 5.1	люб. измен. конфиг., гар от 1г., техн. обслужив., upgrade	$445	ВИЛКОМ+	325-37-45	Нарвск.
+P-III-733EB, MB VIA KT133A (694) ATX	128 DIMM	20.0 ATA/100	Riva TNT2 32Mb, 17" Samsung TCO'99	52x	onboard	гар. 2г.	$499	BeeBee comp.	596-59-75	Ч.речка
+P-III-1200EB, MB Chaintech i815EP, ATX	128 PC133	40.0 ATA/100	GeForce2, 64Mb, 17"	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$500	GENESIS	324-99-86	Ч.речка
+P-III-1133EB, MB Chaintech i815EP ATX	128 PC133	40.0 ATA/100	64Mb GeForce2, Samsung 17" плоский 0.24	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$538	GENESIS	324-99-86	Ч.речка
+P-4-1500, MB i845, Socket-478, ATX	128 PC133	20,0 ATA/100	ATI Rage 128 Pro 32Mb, AGP	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$310	РиМ	327-15-02	Академ.
+P-4-1600, MB i845, Socket-478, ATX	128 PC133	20,0 ATA/100	ATI Rage 128 Pro 32Mb, AGP	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$315	РиМ	327-15-02	Академ.
+P-4-1700	128	20.4 ATA/100	16Mb AGP 3D	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$324	НеваЛайн	164-53-77	Пл.Восст.
+P-4-1500, MB ABIT	64	10.0	Riva TNT Vanta		AC'97	предпродажная консульт., люб. измен., рассрочка на 1г.	$331	Петролайн	325-20-28	Пионер.
+P-4-1500, MB i845, Socket-478, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$334	РиМ	325-77-74	Ладожск.
+P-4-1500	128	20.4 ATA/100	32Mb AGP 3D	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$335	НеваЛайн	164-53-77	Пл.Восст.
+P-4-1500, MB SIS	128	30.0	ATI Rage 128 Pro 32Mb	52x	onboard	ATX, гар. 3г., 5ч. Internet в подарок	$335	СВЕГА-ПЛЮС	327-46-30	В.О.
+P-4-1500, S478, QDR 400MHz bus	128 PC133	20.5 Maxtor	GeForce2 MX200 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$338	IN-Tech	224-17-81	Пл.Лен.
+P-4-1600, MB i845, Socket-478, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$339	РиМ	325-77-74	Ладожск.
+P-4-1500, MB i845D, Socket-478, ATX	128 DDR	20.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$340	РиМ	325-35-35	Владим.
+P-4-1500, MB SIS	128	30.0	GeForce4 MX400 32Mb	52x	onboard	ATX, гар. 3г., 5ч. Internet в подарок	$340	СВЕГА-ПЛЮС	325-16-37	Лиг.пр.
+P-4-1700, MB i845, Socket-478, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$344	РиМ	325-77-74	Ладожск.
+P-4-1600, MB i845D, Socket-478, ATX	128 DDR	20.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$345	РиМ	325-35-35	Владим.
+P-4-1500, S478, QDR 400MHz bus	128 PC133	41.0 Maxtor	GeForce2 MX200 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$345	IN-Tech	533-43-03	Академ.
+P-4-1500, S478, QDR 400MHz bus	128 PC133	41.0 Maxtor	GeForce2 MX400 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$349	IN-Tech	587-75-75	Пр.Больш.
+P-4-1700, MB i845D, Socket-478, ATX	128 DDR	20.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$350	РиМ	325-35-35	Владим.
+P-4-1500, MB i845 Socket-478	128 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$350	Политехника	528-17-22	Н.черкас.
+P-4-1500, MB i845 Socket-478	128 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$353	РИК	327-34-10	Черныш.
+P-4-1700, MB SIS	128	30.0	ATI Rage 128 Pro 32Mb	52x	onboard	ATX, гар. 3г., 5ч. Internet в подарок	$355	СВЕГА-ПЛЮС	372-15-77	Лен.пр.
+P-4-1600, MB i845, Socket-478	128 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$355	Политехника	528-17-22	Н.черкас.
+P-4-1600, MB i845, Socket-478	128 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$356	РИК	327-34-10	Черныш.
+P-4-1700, S478, QDR 400MHz bus	128 PC133	20.5 Maxtor	GeForce2 MX200 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$356	IN-Tech	587-75-75	Пр.Больш.
+P-4-1700, MB i845, Socket-478	128 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$358	РИК	327-34-10	Черныш.
+P-4-1500, S478, QDR 400MHz bus	256 PC133	41.0 Maxtor	GeForce2 MX200 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$358	IN-Tech	224-17-81	Пл.Лен.
+P-4-1700, MB i845, Socket-478	128 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$359	Политехника	528-17-22	Н.черкас.
+P-4-1500, MB i845 Socket-478	128 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$359	Политехника	528-17-22	Н.черкас.
+P-4-1700, MB JetWay, ATX	128 (512)	30.0 Maxtor 7200rpm	GeForce2 MX400 64Mb	52x	SB 16bit	Win ME, гар. 3г., доставка, 5 видеофильмов в подарок!	от $359	RASAR	272-83-86	Пл.Восст.
+P-4-1800 NorthWood, MB i845, Socket-478, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$360	РиМ	325-77-74	Ладожск.
+P-4-1700	128	20.4 ATA/100	GeForce 32Mb	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$360	НеваЛайн	110-81-87	Пл.Восст.
+P-4-1500, MB i845 Socket-478	256 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$360	Политехника	528-17-22	Н.черкас.
+P-4-1500, MB i845 Socket-478	128 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$362	РИК	327-34-10	Черныш.
+P-4-1500, S478, QDR 400MHz bus	256 PC133	41.0 Maxtor	GeForce2 MX400 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$362	IN-Tech	533-43-03	Академ.
+P-4-1700, S478, QDR 400MHz bus	128 PC133	41.0 Maxtor	GeForce2 MX200 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$363	IN-Tech	224-17-81	Пл.Лен.
+P-4-1700, MB i845 Socket-478, ATX	256 PC133	30.0 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., подарок - акт. колонки, дост. б/п!	$364	КИМОР	321-68-88	Пионер.
+P-4-1700, MB SIS	128	30.0	GeForce4 MX400 32Mb	52x	onboard	ATX, гар. 3г., 5ч. Internet в подарок	$365	СВЕГА-ПЛЮС	325-16-37	Лиг.пр.
+P-4-1800A 512K, MB JetWay i845GL (USB 2.0)	128 DDR PC2100	20.0 WD UDMA		52x		LAN 10/100, k., m. Genius	$365	Техномания	327-07-38	Фрунз.
+P-4-1800 NorthWood, MB i845D, Socket-478, ATX	128 DDR	20.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$366	РиМ	325-35-35	Владим.
+P-4-1500, MB i845 Socket-478	256 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$366	РИК	327-34-10	Черныш.
+P-4-1700, MB VIA KT266 (478), ATX	256 PC133	20.0 ATA/100	GeForce2 32Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$368	GENESIS	324-99-87	Ч.речка
+P-4-1600, MB i845G, ATX	128 DDR	10.0 ATA/100	встроен. 3D	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$369	GENESIS	324-99-86	Ч.речка
+P-4-1700, MB JetWay P4XFA	128 PC133	20.0 WD UDMA/100	GeForce2 MX400 64Mb	52x		CD-ROM LG, k., m. Genius	$369	Техномания	327-97-32	П.Победы
+P-4-1500, MB i845 Socket-478	256 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$369	Политехника	528-17-22	Н.черкас.
+P-4-1700, MB i845G, ATX	128 DDR	10.0 ATA/100	встроен. 3D	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$371	GENESIS	324-99-86	Ч.речка
+P-4-1500, Socket-478	128 DDR	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$372	РИК	327-34-10	Черныш.
+P-4-1500, Socket-478	128 DDR	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$373	Политехника	528-17-22	Н.черкас.
+P-4-1600, MB i845, Socket-478	256 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$374	Политехника	528-17-22	Н.черкас.
+P-4-1600, Socket-478	128 DDR	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$375	РИК	327-34-10	Черныш.
+P-4-1500, MB i845 Socket-478	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$375	РИК	327-34-10	Черныш.
+P-4-1500, MB ABIT	128	20.0	Riva TNT Vanta	48x	AC'97	FDD, k., m., m.p., колонки, предпродажная консульт., люб. измен., рассрочка на 1г.	$376	Петролайн	325-20-28	Пионер.
+P-4-1800 NorthWood, MB i845 Socket-478	128 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$376	Политехника	528-17-22	Н.черкас.
+P-4-1700, Socket-478	128 DDR	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$377	РИК	327-34-10	Черныш.
+P-4-1600, MB i845, Socket-478	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$378	РИК	327-34-10	Черныш.
+P-4-1800, S478, QDR 400MHz bus	128 PC133	41.0 Maxtor	GeForce2 MX400 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$378	IN-Tech	533-43-03	Академ.
+P-4-1600, Socket-478	128 DDR	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$378	Политехника	528-17-22	Н.черкас.
+P-4-1700, MB i845, Socket-478	256 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$378	Политехника	528-17-22	Н.черкас.
+P-4-1800 NorthWood, MB i845 Socket-478	128 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$380	РИК	327-34-10	Черныш.
+P-4-1700, MB i845, Socket-478	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$380	РИК	327-34-10	Черныш.
+P-4-1500, Socket-478	128 DDR	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$381	РИК	327-34-10	Черныш.
+P-4-1800, MB SIS	128	30.0	ATI Rage 128 Pro 32Mb	52x	onboard	ATX, гар. 3г., 5ч. Internet в подарок	$381	СВЕГА-ПЛЮС	327-46-30	В.О.
+P-4-1700, Socket-478	128 DDR	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$382	Политехника	528-17-22	Н.черкас.
+P-4-1500, Socket-478	128 DDR	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$382	Политехника	528-17-22	Н.черкас.
+P-4-2000 NorthWood, MB i845, Socket-478, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$383	РиМ	325-77-74	Ладожск.
+P-4-1800 cache 512K, MB VIA KT266 (478), ATX	256 PC133	20.0 ATA/100	GeForce2 32Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$385	GENESIS	324-99-86	Ч.речка
+P-4-2000 NorthWood, MB i845D, Socket-478, ATX	128 DDR	20.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$389	РиМ	325-35-35	Владим.
+P-4-1800 cache 512K, MB i845G, ATX	128 DDR	10.0 ATA/100	встроен. 3D	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$389	GENESIS	324-99-87	Ч.речка
+P-4-1800, MB SIS	128	30.0	GeForce4 MX400 32Mb	52x	onboard	ATX, гар. 3г., 5ч. Internet в подарок	$389	СВЕГА-ПЛЮС	372-15-77	Лен.пр.
+P-4-1700, MB Intel 845D	128 DDR PC2100	20.0 ATA/100	GeForce2 MX400 32Mb	52x	16bit	k., m., любые конфигур., upgrade	$390	МЕРИДИАН	322-64-96	Лесная
+P-4-1800, S478, QDR 400MHz bus	256 PC133	41.0 Maxtor	GeForce2 MX200 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$392	IN-Tech	587-75-75	Пр.Больш.
+P-4-1500, MB i845	256	40.0 UDMA/100	GeForce 64Mb	52x	onboard	гар. 2г.	$392	BeeBee comp.	596-59-75	Ч.речка
+P-4-1500, MB VIA KT266 (478), ATX	256 DDR	20.0 ATA/100	Riva TNT2 32Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$394	GENESIS	324-99-86	Ч.речка
+P-4-1800 NorthWood, MB i845 Socket-478	256 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$395	Политехника	528-17-22	Н.черкас.
+P-4-2000 NorthWood, MB i845 Socket-478	128 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$397	Политехника	528-17-22	Н.черкас.
+P-4-1500, Socket-478	256 DDR	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$398	РИК	327-34-10	Черныш.
+P-4-1800 NorthWood Socket-478	128 DDR	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$399	РИК	327-34-10	Черныш.
+P-4-2000, MB SIS	128	30.0	ATI Rage 128 Pro 32Mb	52x	onboard	ATX, гар. 3г., 5ч. Internet в подарок	$399	СВЕГА-ПЛЮС	327-46-30	В.О.
+P-4-1800 NorthWood Socket-478	128 DDR	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$399	Политехника	528-17-22	Н.черкас.
+P-4-1500, Socket-478	256 DDR	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$399	Политехника	528-17-22	Н.черкас.
+P-4-1500, MB i845, Socket-478, ATX	512 PC133	60.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$400	РиМ	327-20-20	Озерки
+P-4-2000 NorthWood, MB i845 Socket-478	128 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$401	РИК	327-34-10	Черныш.
+P-4-1800 NorthWood, MB i845 Socket-478	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$402	РИК	327-34-10	Черныш.
+P-4-1700, Socket-478	256 DDR	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$403	РИК	327-34-10	Черныш.
+P-4-2000 cache 512K, MB VIA KT266 (478), ATX	256 PC133	20.0 ATA/100	Riva TNT2 32Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$403	GENESIS	324-99-87	Ч.речка
+P-4-1500, MB i845	256	40.0 WD UDMA/100	GeForce 64Mb	52x	onboard	гар. 2г.	$403	КЦ Паркан	596-56-65	Гражд.пр.
+P-4-1600, MB i845, Socket-478, ATX	512 PC133	60.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$405	РиМ	327-20-20	Озерки
+P-4-1500, MB JetWay P4XFA	128 DDR	40.0	GeForce 32Mb	48x-52x	SB	case ATX 250W, k. 9901, m. NetScroll	$405	ATS Plus	327-52-07	Петр.
+P-4-1700, MB JetWay P4XFA	256	40.0 WD UDMA/100	GeForce4 MX440 64Mb DDR TV-out	52x		CD-ROM LG, k., m. Genius	$405	Техномания	324-60-98	П.Победы
+P-4-2000, MB SIS	128	30.0	GeForce4 MX400 32Mb	52x	onboard	ATX, гар. 3г., 5ч. Internet в подарок	$405	СВЕГА-ПЛЮС	325-16-37	Лиг.пр.
+Game Professional P-4-1500	128 DDR	20.0 WD 7200rpm	GeForce2 MX400 64Mb	52x	SB	MB JW P4XFA, Titan 478I, ATX-250, FDD, CD-ROM LG, изм. конфигур.	$406	СТРОНГ	325-17-97	Елизар.
+P-4-1500, Socket-478	256 DDR	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$407	РИК	327-34-10	Черныш.
+P-4-1800 NorthWood Socket-478	128 DDR	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$408	РИК	327-34-10	Черныш.
+P-4-1700, Socket-478	256 DDR	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$408	Политехника	528-17-22	Н.черкас.
+P-4-1800 NorthWood Socket-478	128 DDR	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$408	Политехника	528-17-22	Н.черкас.
+P-4-1500, Socket-478	256 DDR	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$408	Политехника	528-17-22	Н.черкас.
+P-4-1700, MB VIA P4X266	128 DDR	30.0 7200rpm	GeForce2 MX400 64Mb	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$409	Стэл ЛТД	164-31-27	Лиг.пр.
+P-4-1700, MB i845, Socket-478, ATX	512 PC133	60.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$410	РиМ	327-20-20	Озерки
+P-4-1600, Socket-478	256 DDR	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$410	РИК	327-34-10	Черныш.
+P-4-1700, Socket-478	256 DDR	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$412	РИК	327-34-10	Черныш.
+P-4-1700, Socket-478	256 DDR	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$412	РИК	327-34-10	Черныш.
+P-4-1600, MB SIS 645, Socket-478	256 DDR	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$413	РИК	327-34-10	Черныш.
+P-4-1600, Socket-478	256 DDR	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$413	Политехника	528-17-22	Н.черкас.
+P-4-1700, MB i845D ATX	128 DDR	40.0 Seag. 7200rpm	64Mb GeForce2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$414	GENESIS	324-99-86	Ч.речка
+P-4-1700	256	40.4 ATA/100	GeForce4 64Mb	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$415	НеваЛайн	110-81-87	Пл.Восст.
+P-4-1600, MB JetWay P4XFA	128 DDR	40.0	GeForce 32Mb	48x-52x	SB	case ATX 250W, k. 9901, m. NetScroll	$415	ATS Plus	327-52-99	Петр.
+P-4-1500, MB i845D, Socket-478, ATX	256 DDR	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$416	РиМ	153-83-65	Лен.пр.
+P-4-1600, MB SiS 645, Socket-478	256 DDR	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$416	Политехника	528-17-22	Н.черкас.
+P-4-2000 NorthWood, MB i845 Socket-478	256 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$416	Политехника	528-17-22	Н.черкас.
+P-4-1700, Socket-478	256 DDR	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$417	Политехника	528-17-22	Н.черкас.
+P-4-1700, Socket-478	256 DDR	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$417	Политехника	528-17-22	Н.черкас.
+P-4-2400 NorthWood, MB i845, Socket-478, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$418	РиМ	325-35-35	Владим.
+P-4-2000 NorthWood Socket-478	128 DDR	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$420	РИК	327-34-10	Черныш.
+P-4-2000 NorthWood Socket-478	128 DDR	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$420	Политехника	528-17-22	Н.черкас.
+P-4-1600, MB i845D, Socket-478, ATX	256 DDR	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$421	РиМ	153-83-65	Лен.пр.
+P-4-1600, MB SIS 645, Socket-478	256 DDR	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$422	РИК	327-34-10	Черныш.
+P-4-2000 NorthWood, MB i845 Socket-478	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$423	РИК	327-34-10	Черныш.
+ASCoD Explorer 5000 P-4-1700 Socket-478, MB VIA chipset	256	20.0 UDMA/100	GeForce MX400 64Mb	52x	16bit, PCI	полн. гар. 2г.	$423	ASCOD	325-15-55	Горьк.
+P-4-1700, MB JetWay P4XFA	128 DDR	40.0	GeForce 32Mb	48x-52x	SB	case ATX 250W, k. 9901, m. NetScroll	$425	ATS Plus	327-52-07	Петр.
+P-4-1600, MB SiS 645, Socket-478	256 DDR	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$425	Политехника	528-17-22	Н.черкас.
+P-4-1700, MB i845D, Socket-478, ATX	256 DDR	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$426	РиМ	153-83-65	Лен.пр.
+P-4-1800 NorthWood, MB i845, Socket-478, ATX	512 PC133	60.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$426	РиМ	327-20-20	Озерки
+P-4-2000	128	20.4 ATA/100	GeForce2 32Mb	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$426	НеваЛайн	164-53-77	Пл.Восст.
+P-4-2000 NorthWood Socket-478	128 DDR	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$429	РИК	327-34-10	Черныш.
+P-4-1800 512K, MB VIA P4X266, NorthWood	128 DDR	30.0 7200rpm	GeForce2 MX400 64Mb	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$429	Стэл ЛТД	164-31-27	Лиг.пр.
+P-4-2000 NorthWood Socket-478	128 DDR	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$429	Политехника	528-17-22	Н.черкас.
+P-4-2000A 512K, MB i845	256	40.0 WD UDMA/100	GeForce2 MX400 64Mb	52x		CD-ROM LG, k., m. Genius	$433	Техномания	324-60-98	П.Победы
+P-4-1800 NorthWood Socket-478	256 DDR	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$434	РИК	327-34-10	Черныш.
+P-4-1800 NorthWood Socket-478	256 DDR	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$434	Политехника	528-17-22	Н.черкас.
+P-4-1600 Socket-478	256	40.0 7200rpm	GeForce2 MX400 32Mb	56x	AC'97	люб. измен. конфиг., гар от 1г., техн. обслужив., upgrade	$435	ВИЛКОМ+	325-37-45	Нарвск.
+P-4-1500, MB MSI 6566, ATX	256 DDR	40.0 ATA/100	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$439	GENESIS	324-99-87	Ч.речка
+P-4-2000, S478, QDR 400MHz bus	256 PC133	41.0 Maxtor	GeForce4 MX420 64Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$439	IN-Tech	533-43-03	Академ.
+P-4-1800 NorthWood, MB i845D, Socket-478, ATX	256 DDR	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$442	РиМ	153-83-65	Лен.пр.
+P-4-1500, MB i845D, Socket-478, ATX	256 DDR	60.0 Seagate 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$444	РиМ	325-06-22	Н.черкас.
+P-4-1800, MB JetWay P4XFA	128 DDR	40.0	GeForce 32Mb	48x-52x	SB	case ATX 250W, k. 9901, m. NetScroll	$445	ATS Plus	327-52-99	Петр.
+P-4-2000 NorthWood Socket-478	256 DDR	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$446	РИК	327-34-10	Черныш.
+P-4-2000 NorthWood Socket-478	256 DDR	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$446	Политехника	528-17-22	Н.черкас.
+P-4-1600, MB MSI 6566, ATX	256 DDR	40.0 ATA/100	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$448	GENESIS	324-99-87	Ч.речка
+P-4-1600, MB i845D, Socket-478, ATX	256 DDR	60.0 Seagate 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$449	РиМ	325-06-22	Н.черкас.
+P-4-2000 NorthWood, MB i845, Socket-478, ATX	512 PC133	60.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$449	РиМ	327-20-20	Озерки
+P-4-1700	256	40.0	GeForce2 MX400, 32Mb	52x	SB	ATX, k., m., гар. 1.5г.	$449	Элика	246-96-38	Ч.речка
+P-4-2000 512K, MB VIA P4X266, NorthWood	128 DDR	30.0 7200rpm	GeForce2 MX400 64Mb	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$452	Стэл ЛТД	164-31-27	Лиг.пр.
+P-4-2533 NorthWood, MB i845, Socket-478, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$453	РиМ	325-35-35	Владим.
+P-4-1700, MB i845D, Socket-478, ATX	256 DDR	60.0 Seagate 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$454	РиМ	325-06-22	Н.черкас.
+P-4-2000 NorthWood Socket-478	256 DDR	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$455	РИК	327-34-10	Черныш.
+P-4-2000	256	40.4 ATA/100	GeForce2 32Mb AGP	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$455	НеваЛайн	164-53-77	Пл.Восст.
+P-4-2000 NorthWood Socket-478	256 DDR	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$455	Политехника	528-17-22	Н.черкас.
+P-4-1900, MB i845D, ATX	256 DDR	20.0 ATA/100	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$456	GENESIS	324-99-87	Ч.речка
+P-4-2400 FSB 533MHz, MB VIA KT266 9478) ATX	256 PC133	40.0 ATA/100	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$462	GENESIS	324-99-86	Ч.речка
+P-4-1600, MB ASUS P4B266 i845D	256 DDR	40.0 Seag. 7200rpm	64Mb GeForce2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$462	GENESIS	324-99-87	Ч.речка
+P-4-2000 NorthWood, MB i845D, Socket-478, ATX	128 DDR	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$465	РиМ	153-83-65	Лен.пр.
+P-4-1900, MB JetWay P4XFA	128 DDR	40.0	GeForce 32Mb	48x-52x	SB	case ATX 250W, k. 9901, m. NetScroll	$465	ATS Plus	327-52-07	Петр.
+P-4-1800 cache 512K, MB MSI 6566, ATX	256 DDR	40.0 ATA/100	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$467	GENESIS	324-99-86	Ч.речка
+P-4-1800A 512K	256 DDR PC2100	40.0 WD UDMA/100	GeForce4 MX440 64Mb DDR TV-out	52x		CD-ROM LG, k., m. Genius	$467	Техномания	327-97-24	Фрунз.
+P-4-1700, MB VIA P4X266	256 DDR	30.0 7200rpm	ATI Radeon 9000 64Mb DDR, DVI, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$468	Стэл ЛТД	164-31-27	Лиг.пр.
+P-4-1700, MB VIA P4X266	256 DDR	40.0 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$469	Стэл ЛТД	164-31-27	Лиг.пр.
+P-4-1800 NorthWood, MB i845D, Socket-478, ATX	256 DDR	60.0 Seagate 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$470	РиМ	325-06-22	Н.черкас.
+P-4-1600 Socket-478	128 DDR 266MHz SEC	40.0 WD 7200rpm	GeForce4 MX420 64Mb	52x	onboard	CD-ROM Mitsumi, гар. 3г., б/п дост.	$472	КВАНТ-НЕВА	274-03-02	Пл.Восст.
+P-4-1800 512K cache	256 DDR	40.4 ATA/100	GeForce4 64Mb	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$475	НеваЛайн	110-81-87	Пл.Восст.
+P-4-2400 NorthWood, MB i845 Socket-478, 533MHz FSB	128 DDR	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$477	РИК	327-34-10	Черныш.
+P-4-1800 512K cache, MB MSI 6566 MAX i845E (533), ATX	256 DDR	40.0 ATA/100	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$478	GENESIS	324-99-87	Ч.речка
+P-4-2000	128	40.0	GeForce2 MX400 64Mb	52x	SB	ATX, k., m., гар. 1.5г.	$479	Элика	246-96-38	Ч.речка
+P-4-2400 NorthWood, MB i845 Socket-478, 533MHz FSB	128 DDR	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$480	Политехника	528-17-22	Н.черкас.
+P-4-1800 512K cache, MB ASUS P4B266 i845D	256 DDR	40.0 Seag. 7200rpm	64Mb GeForce2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$482	GENESIS	324-99-86	Ч.речка
+P-4-2400 NorthWood, MB i845D, Socket-478, ATX	512 PC133	60.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$484	РиМ	327-20-20	Озерки
+P-4-2400 NorthWood 533MHz FSB, Socket-478	128 DDR	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$485	РИК	327-34-10	Черныш.
+P-4-2000 512K cache, MB ASUS P4B266 i845D	256 DDR	40.0 IBM 7200rpm	GeForce2 64Mb	DVD	Live 5.1	гар. 2г.	$486	BeeBee comp.	596-59-75	Ч.речка
+P-4-1800 512K, MB VIA P4X266, NorthWood	256 DDR	30.0 7200rpm	ATI Radeon 9000 64Mb DDR, DVI, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$488	Стэл ЛТД	164-31-27	Лиг.пр.
+ASCoD Explorer 5100 P-4-1800D Socket-478, MB SiS DDR chipset	256 DDR PC2100	20.0 UDMA/100	GeForce MX400 64Mb	52x	16bit PCI	полн. гар. 2г.	$489	ASCOD	325-15-55	Горьк.
+P-4-1800 512K, MB VIA P4X266, NorthWood	256 DDR	40.0 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$489	Стэл ЛТД	164-31-27	Лиг.пр.
+P-4-2000, MB i845	256 DDR PC2100	40.0 ATA/100 7200rpm	GeForce2 MX400 32Mb	52x	16bit	k., m., любые конфигур., upgrade	$490	МЕРИДИАН	322-64-96	Лесная
+P-4-2000 cache 512K, MB MSI 6566, ATX	256 DDR	40.0 ATA/100	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$491	GENESIS	324-99-86	Ч.речка
+P-4-1900, MB MSI 6566 MAX i845E (533), ATX	256 DDR	40.0 ATA/100	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$492	GENESIS	324-99-86	Ч.речка
+P-4-2400 NorthWood 533MHz FSB, Socket-478	128 DDR	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$492	Политехника	528-17-22	Н.черкас.
+P-4-2000 NorthWood, MB i845D, Socket-478, ATX	256 DDR	60.0 Seagate 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$493	РиМ	325-06-22	Н.черкас.
+P-4-2400 NorthWood, MB i845 Socket-478, 533MHz FSB	256 DDR	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$494	РИК	327-34-10	Черныш.
+P-4-2400 NorthWood 533MHz FSB, Socket-478	128 DDR	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$494	РИК	327-34-10	Черныш.
+P-4-2000, MB JetWay P4XFA	128 DDR	40.0	GeForce 32Mb	48x-52x	SB	case ATX 250W, k. 9901, m. NetScroll	$495	ATS Plus	327-52-99	Петр.
+P-4-1900, MB ASUS P4B266 i845D	256 DDR	40.0 Seag. 7200rpm	64Mb GeForce2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$496	GENESIS	324-99-86	Ч.речка
+P-4-2400 NorthWood, MB i845 Socket-478, 533MHz FSB	256 DDR	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$497	Политехника	528-17-22	Н.черкас.
+P-4-1700, MB VIA P4X266	256 DDR	61.0 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$498	Стэл ЛТД	164-31-27	Лиг.пр.
+P-4-1800A 512K, MB JetWay i845D	256 DDR PC2100	40.0 WD UDMA/100	Soltek GeForce4 MX440 64Mb DDR TV-out	52x		CD-ROM LG, k., m. Genius	$499	Техномания	324-60-98	П.Победы
+P-4-2400 NorthWood, MB i845D, Socket-478, ATX	128 DDR	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$500	РиМ	153-83-65	Лен.пр.
+P-4-2400 NorthWood 533MHz FSB, Socket-478	128 DDR	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$501	Политехника	528-17-22	Н.черкас.
+P-4-2400 NorthWood Socket-478, 533MHz FSB	256 DDR	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$503	РИК	327-34-10	Черныш.
+P-4-2400 NorthWood, MB i845D, Socket-478, ATX	256 DDR	60.0 Seagate 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$504	РиМ	325-06-22	Н.черкас.
+P-4-1800 cache 512K, MB MSI 6580 MAX i845PE (DDR 333)	256 DDR PC2700	40.0 Seagate 7200rpm	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$504	GENESIS	324-99-87	Ч.речка
+P-4-2400A 512K 533MHz, MB MSI 8566E i845E (533MHz, USB 2.0)	128 DDR PC2100	20.0 WD UDMA/100	GeForce2 MX400 64Mb	52x		CD-ROM LG, k., m. Genius	$504	Техномания	327-97-24	Фрунз.
+P-4-2000 512K cache, MB ASUS P4B266 i845D	256 DDR	40.0 Seag. 7200rpm	64Mb GeForce2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$506	GENESIS	324-99-86	Ч.речка
+P-4-2400 NorthWood Socket-478, 533MHz FSB	256 DDR	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$506	Политехника	528-17-22	Н.черкас.
+P-4-2000 512K, MB VIA P4X266, NorthWood	256 DDR	30.0 7200rpm	ATI Radeon 9000 64Mb DDR, DVI, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$510	Стэл ЛТД	164-31-27	Лиг.пр.
+P-4-2000 512K, MB VIA P4X266, NorthWood	256 DDR	40.0 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$511	Стэл ЛТД	164-31-27	Лиг.пр.
+AudioVideo Standart P-4-1500	256 DDR	40.0 WD 7200rpm	GeForce2 MX400 64Mb	40x12x48	Creative 5.1	MB JW P4XFa, Titan 478I, ATX-250, FDD, CD-RW TEAC, изм. конфигур.	$513	СТРОНГ	325-17-94	Елизар.
+P-4-2530 FSB 533MHz, MB VIA KT266 (478), ATX	256 PC133	40.0 ATA/100	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$513	GENESIS	324-99-86	Ч.речка
+P-4-1800 NorthWood Socket-478 512K, 400MHz FSB	256	40.0 7200rpm	GeForce2 MX400 32Mb	56x	AC'97	люб. измен. конфиг., гар от 1г., техн. обслужив., upgrade	$515	ВИЛКОМ+	325-37-45	Нарвск.
+P-4-1800 512K, MB VIA P4X266, NorthWood	256 DDR	61.0 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$518	Стэл ЛТД	164-31-27	Лиг.пр.
+P-4-2533 NorthWood, MB i845, Socket-478, ATX	512 PC133	60.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$519	РиМ	327-20-20	Озерки
+P-4-2400 NorthWood 533MHz FSB, Socket-478	256 DDR	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$520	РИК	327-34-10	Черныш.
+P-4-1800 512K Socket-478, MB MicroStar MS-6580 i845PE	128 DDR	40.0 IBM 7200rpm	MicroStar GeForce2 MX400 32Mb	52x	AC'97	case ATX CodeGen 300W, CD-ROM MSI, FDD Sony, k., m., полн. гар. 1.5г.	$520	ЭЛИКА+	325-86-41	Техн.и-т
+P-4-1700, MB VIA KT266 (478), ATX	256 PC133	40.0 ATA/100	GeForce2 64Mb, 17"	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$522	GENESIS	324-99-86	Ч.речка
+P-4-2533 NorthWood 533MHz FSB Socket-478	128 DDR	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$527	РИК	327-34-10	Черныш.
+P-4-2400 NorthWood 533MHz FSB, Socket-478	256 DDR	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$527	Политехника	528-17-22	Н.черкас.
+P-4-2000A 512K cache, MB MSI 8566E i845E (533MHz, USB 2.0)	256 PC2100 DDR	40.0 UDMA/100 WD	GeForce4 MX440 64Mb DDR TV-out	52x		CD-ROM LG, k., m. Genius	$530	Техномания	327-97-32	П.Победы
+P-4-2533 NorthWood, MB i845, Socket-478, ATX	128 DDR	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$535	РиМ	153-83-65	Лен.пр.
+P-4-2533 NorthWood 533MHz FSB Socket-478	128 DDR	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$536	РИК	327-34-10	Черныш.
+P-4-2533 NorthWood 533MHz FSB Socket-478	128 DDR	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$536	Политехника	528-17-22	Н.черкас.
+P-4-2533 NorthWood, MB i845, Socket-478, ATX	256 DDR	60.0 Seagate 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$539	РиМ	325-06-22	Н.черкас.
+P-4-2000 512K, MB VIA P4X266, NorthWood	256 DDR	61.0 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$540	Стэл ЛТД	164-31-27	Лиг.пр.
+P-4-2200, MB i845	256 DDR PC2100	40.0 ATA/100	GeForce2 MX400 32Mb	52x	16bit	k., m. + модем в подарок, любые конфигур., upgrade	$540	МЕРИДИАН	245-42-35	Лесная
+P-4-1700 400MHz, MB MS-6547 SiS 645 S478	256 DDR	40.0 IBM 7200rpm	GeForce2 MX400 64Mb	52x	AC'97	case CodeGen 6xxx 300W, CD-ROM Sony, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$540	ТЕХНОСИЛА	320-18-22	Пл.Муж.
+P-4-1700 400MHz, MB MS-6547 SiS 645 S478	256 DDR	40.0 IBM 7200rpm	GeForce2 MX400 64Mb	52x	AC'97	case CodeGen 6xxx 300W, CD-ROM Sony, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$540	ТЕХНОСИЛА	322-92-64	Петр.
+P-4-2260, MB MSI 6566 MAX i845E, FSB 533MHz, ATX	256 DDR	40.0 Seag. 7200rpm	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$542	GENESIS	324-99-86	Ч.речка
+P-4-2400 FSB 533MHz, MB MicroStar MS-6566 MAX i845E (533) ATX	256 DDR	40.0 Seag. 7200rpm	GeForce2 64Mb	52x	SB 16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$545	GENESIS	324-99-87	Ч.речка
+P-4-2200, MB JetWay P4XFA	128 DDR	40.0	GeForce 32Mb	48x-52x	SB	case ATX 250W, k. 9901, m. NetScroll	$545	ATS Plus	327-52-07	Петр.
+P-4-2533 NorthWood 533MHz FSB Socket-478	128 DDR	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$545	Политехника	528-17-22	Н.черкас.
+P-4-1600, MB MSI-6566 MAX i845E (533) ATX	128 DDR	20.0 ATA/100	GeForce2 64Mb, 17"	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$547	GENESIS	324-99-87	Ч.речка
+P-4-1600, MB Gigabyte	512 DDR	60.0 WD	GeForce2 MX400 64Mb	52x	Sound	CD-ROM Sony, MidiTower ATX, колонки и антивирусная программа Dr.Web - б/п!, гар. 2г.	$549	ДИАЛОГ ИТ	327-22-87	Садовая
+P-4-1500, MB ABIT	128	20.0	GeForce MX400	52x	AC'97	FDD, k., m., m.p., колонки, предпродажная консульт., люб. измен., рассрочка на 1г.	$552	Петролайн	325-20-28	Пионер.
+P-4-2533 NorthWood 533MHz FSB Socket-478	256 DDR	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$553	РИК	327-34-10	Черныш.
+P-4-2200 512K cache, MB ASUS P4B266 i845D	256 DDR	82.0 Seag. 7200rpm	64Mb GeForce2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$558	GENESIS	324-99-87	Ч.речка
+P-4-1800 400MHz, MB MS-6566 i845D S478	256 DDR	40.0 IBM 7200rpm	GeForce2 MX400 64Mb	52x	AC'97	case CodeGen 6xxx 300W, CD-ROM Sony, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$560	ТЕХНОСИЛА	320-18-22	Пл.Муж.
+P-4-1800 400MHz, MB MS-6566 i845D S478	256 DDR	40.0 IBM 7200rpm	GeForce2 MX400 64Mb	52x	AC'97	case CodeGen 6xxx 300W, CD-ROM Sony, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$560	ТЕХНОСИЛА	322-92-64	Петр.
+P-4-2260 FSB 533MHz, MB MicroStar MS-6580 MAX i845PE (533) (DDR 333)	256 DDR PC2700	40.0 Seagate 7200rpm	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$561	GENESIS	324-99-86	Ч.речка
+P-4-2533 NorthWood 533MHz FSB Socket-478	256 DDR	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$562	РИК	327-34-10	Черныш.
+P-4-2533 NorthWood 533MHz FSB Socket-478	256 DDR	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$562	Политехника	528-17-22	Н.черкас.
+P-4-2000	256 DDR	40.4 ATA/100	GeForce4 64Mb AGP	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$570	НеваЛайн	164-53-77	Пл.Восст.
+P-4-2533 NorthWood 533MHz FSB Socket-478	256 DDR	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$571	Политехника	528-17-22	Н.черкас.
+P-4-1500, MB MicroStar MS-6545 (850)	256 RIMM	40.0	GeForce 32Mb	48x-52x	SB	case INWIN 508, k. 9901, m. NetScroll	$575	ATS Plus	327-52-07	Петр.
+P-4-1600, MB MicroStar MS-6545 (850)	256 RIMM	40.0	GeForce 32Mb	48x-52x	SB	case INWIN 508, k. 9901, m. NetScroll	$585	ATS Plus	327-52-99	Петр.
+P-4-2000 NorthWood Socket-478 512K, 400MHz FSB, MB i845	256	40.0 7200rpm	GeForce4 MX440 64Mb AGP	56x	SB Live 5.1	люб. измен. конфиг., гар от 1г., техн. обслужив., upgrade	$590	ВИЛКОМ+	325-37-45	Нарвск.
+P-4-2400, MB i845	256 DDR PC2100	40.0 ATA/100	GeForce2 MX400 32Mb	52x	16bit	k., m. + модем в подарок, любые конфигур., upgrade	$590	МЕРИДИАН	322-64-96	Лесная
+P-4-2260 FSB 533MHz, MB i845	256 DDR PC2700	40.0 ATA/100	GeForce2 MX400 32Mb	52x	16bit	k., m. + модем в подарок, любые конфигур., upgrade	$590	МЕРИДИАН	322-64-96	Лесная
+P-4-2260, MB ASUS P4B533 i845E, FSB 533MHz, ATX	256 DDR	82.0 Seag. 7200rpm	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$594	GENESIS	324-99-87	Ч.речка
+P-4-1700, MB MicroStar MS-6545 (850)	256 RIMM	40.0	GeForce 32Mb	48x-52x	SB	case INWIN 508, k. 9901, m. NetScroll	$595	ATS Plus	327-52-07	Петр.
+P-4-2400, MB JetWay P4XFA	128 DDR	40.0	GeForce 32Mb	48x-52x	SB	case ATX 250W, k. 9901, m. NetScroll	$595	ATS Plus	327-52-99	Петр.
+P-4-2533 FSB 533MHz, MB MSI 6566 MAX i845E (533), ATX	256 DDR	40.0 Seagate 7200rpm	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$596	GENESIS	324-99-87	Ч.речка
+P-4-1800 cache 512K, MB i845D ATX	128 DDR	40.0 ATA/100	GeForce2 32Mb, 17" плоский 0.24	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$600	GENESIS	324-99-86	Ч.речка
+P-4-2533 FSB 533MHz, MB MicroStar MS-6580 MAX i845PE (533) (DDR333)	256 DDR (2700)	40.0 Seag. 7200rpm	GeForce2 64Mb	52x	SB 16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$614	GENESIS	324-99-86	Ч.речка
+P-4-1800, MB MicroStar MS-6545 (850)	256 RIMM	40.0	GeForce MX 32Mb	48x-52x	SB	case INWIN 508, k. 9901, m. NetScroll	$615	ATS Plus	327-52-99	Петр.
+P-4-2533 533MHz 512K, MB MSI 6580PE i845PE (533MHz, USB 2.0, DDR 333)	256 DDR PC2700	40.0 WD UDMA/100	GeForce2 MX400 64Mb	52x		CD-ROM LG, корпус ATX P4, k., m. Genius	$615	Техномания	327-97-24	Фрунз.
+P-4-1600, MB i845D ATX	256 DDR	40.0 ATA/100	64Mb GeForce2, Samsung 17" плоский 0.24	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$617	GENESIS	324-99-87	Ч.речка
+P-4-2000 400MHz, MB MS-6566 i845D S478	256 DDR	60.0 IBM 7200rpm	GeForce4 MX440 64Mb TV-out	52x	AC'97	case CodeGen 6xxx 300W, CD-ROM Sony, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$630	ТЕХНОСИЛА	320-18-22	Пл.Муж.
+P-4-2000 400MHz, MB MS-6566 i845D S478	256 DDR	60.0 IBM 7200rpm	GeForce4 MX440 64Mb TV-out	52x	AC'97	case CodeGen 6xxx 300W, CD-ROM Sony, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$630	ТЕХНОСИЛА	322-92-64	Петр.
+P-4-2400A 533MHz 512K, MB MSI 6580PE i845PE (533MHz, USB 2.0, DDR 333)	256 DDR PC2700	60.0 WD UDMA/100	Soltek GeForce4 MX440 64Mb DDR, TV-out	52x		CD-ROM ASUS, корпус ATX P4, k., m. Genius	$630	Техномания	327-97-32	П.Победы
+P-4-1900, MB MicroStar MS-6545 (850)	256 RIMM	40.0	GeForce MX 32Mb	48x-52x	SB	case INWIN 508, k. 9901, m. NetScroll	$640	ATS Plus	327-52-07	Петр.
+P-4-2400 FSB 533MHz, MB ASUS P4B533 i845E (533), ATX	256 DDR	82.0 Seag. 7200rpm	ATI Radeon 8500 Pro 64Mb DDR	52x	SB 16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$649	GENESIS	324-99-87	Ч.речка
+P-4-1800 512K cache, MB i845D, ATX	128 DDR	40.0 ATA/100	GeForce2 64Mb, 17" LG F700P+ плоский 0.24	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$653	GENESIS	324-99-87	Ч.речка
+P-4-2400 512K, MB i845G, 533MHz FSB	256 DDR	61.0 Seagate 7200rpm	GeForce4 Ti4200 64Mb DDR	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$663	Стэл ЛТД	164-31-27	Лиг.пр.
+P-4-2000, MB MicroStar MS-6545 (850)	256 RIMM	40.0	GeForce MX 32Mb	48x-52x	CS	case INWIN 508, k. 9901, m. NetScroll	$665	ATS Plus	327-52-99	Петр.
+P-4-2000, MB MicroStar MS-6545 (850)	256 RIMM	40.0	GeForce 32Mb	48x-52x	SB	case INWIN 508, k. 9901+ m. Netscroll	$670	ATS Plus	327-52-99	Петр.
+P-4-2200, MB MicroStar MS-6545 (850)	256 RIMM	40.0	GeForce MX 32Mb	48x-52x	CS	case INWIN 508, k. 9901, m. NetScroll	$685	ATS Plus	327-52-07	Петр.
+P-4-2400A 533MHz 512K, MB MSI 6580PE i845PE (533MHz, USB 2.0, DDR 333)	256 DDR PC2700	80.0 WD UDMA/100	Soltek GeForce4 MX440 64Mb DDR TV-out	52x		CD-ROM ASUS, корпус ATX P4 CodeGen 300W, k., m. Genius	$685	Техномания	324-60-98	П.Победы
+P-4-2533 FSB 533MHz, MB ASUS P4B533 i845E (533), ATX	256 DDR	82.0 Seag. 7200rpm	ATI Radeon 8500 Pro 64Mb DDR	52x	SB 16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$700	GENESIS	324-99-87	Ч.речка
+P-4-2200, MB MicroStar MS-6545 (850)	256 RIMM	40.0	GeForce 32Mb	48x-52x	SB	case INWIN 508, k. 9901+ m. Netscroll	$715	ATS Plus	327-52-07	Петр.
+Desc Office Max P-4-2000 512K cache, MB MicroStar MS-6566 MAX-1, FSB 400/533, LAN, USB 2.0	512 DDR PC2100	40.0 Seagate 7200rpm	nVidia GeForce2 MX400 64Mb	52x	onboard	CD-ROM Samsung, k., m., гар. 1г.	$718	D.S.C. Group	113-76-68	Садовая
+P-4-2400 512K, MB i845G, 533MHz FSB	512 DDR	81.0 Seagate 7200rpm	ATI Radeon 9000 Pro 128Mb DDR, DVI, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$722	Стэл ЛТД	164-31-27	Лиг.пр.
+Desc Home Hard P-4-1800 512K cache, MB Gigabyte GA-8PE667 Ultra i845PE, FSB 400/533, USB 2.0	256 DDR PC2700	40.0 Samsung 7200rpm	ATI Radeon 9000 Pro 64Mb	52x	onboard	CD-ROM Samsung, корпус INWIN A500, k., m., гар. 1г.	$730	D.S.C. Group	113-76-68	Садовая
+Bestor Courier P-4-1600 512K cache	256 DDR	40.0 IBM 7200rpm	32Mb Millennium G450/32Mb GeForce2	52x		MB i845, RAID 0/1, 266MHz FSB	$740	БЕСТОР	303-90-91	Черныш.
+P-4-2000 cache 512K, MB ASUS P4B533 i845E (533), ATX	256 DDR	82.0 Seag. 7200rpm	GeForce2 64Mb, Samsung 17" плоский 0.24	52x	SB 16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$740	GENESIS	324-99-87	Ч.речка
+P-4-2800 FSB 533MHz, MB MSI 6580 MAX i845PE (533) DDR333	256 DDR PC2700	40.0 Seagate 7200rpm	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн., гар. 2г., кредит (29% в год)	$769	GENESIS	324-99-86	Ч.речка
+P-4-2400 400MHz, MB MS-6545 i850 S478	256 RIMM	80.0 IBM 7200rpm	GeForce4 MX440 64Mb TV-out	52x	AC'97	case CodeGen 6xxx 300W, CD-ROM Sony, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$784	ТЕХНОСИЛА	320-18-22	Пл.Муж.
+P-4-2400 400MHz, MB MS-6545 i850 S478	256 RIMM	80.0 IBM 7200rpm	GeForce4 MX440 64Mb TV-out	52x	AC'97	case CodeGen 6xxx 300W, CD-ROM Sony, гар. до 3л., люб. измен. конф., по фирм. календарям -3%!	$784	ТЕХНОСИЛА	322-92-64	Петр.
+Desc Home GL P-4-2000 512K cache, MB Gigabyte GA-8PE667 Ultra i845PE, FSB 400/533, USB 2.0	256 DDR PC2700	80.0 Samsung 7200rpm	ASUS V8420/TD GeForce4 Ti4200 64Mb DDR DVI TV-out	52x	onboard	CD-ROM Samsung, корпус INWIN A500, k., m., гар. 1г.	$786	D.S.C. Group	113-76-68	Садовая
+P-4-2400 FSB 533MHz, MB MicroStar MS-6580 MAX i845PE (533) (DDR333)	256 DDR (2700)	40.0 Seag. 7200rpm	GeForce2 64Mb, 17" LG F700P плоский 0.24	52x	SB 16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$793	GENESIS	324-99-86	Ч.речка
+P-4-2400, MB MicroStar MS-6545 (850)	256 RIMM	40.0	GeForce 32Mb	48x-52x	SB	case INWIN 508, k. 9901+ m. Netscroll	$795	ATS Plus	327-52-99	Петр.
+P-4-2400, MB MicroStar MS-6545 (850)	256 RIMM	40.0	GeForce MX 32Mb	48x-52x	CS	case INWIN 508, k. 9901, m. NetScroll	$850	ATS Plus	327-52-99	Петр.
+P-4-2800 FSB 533MHz, MB ASUS P4B533 i845E (533), ATX	256 DDR	82.0 Seag. 7200rpm	ATI Radeon 8500 Pro 64Mb DDR	52x	SB 16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$855	GENESIS	324-99-86	Ч.речка
+Bestor Courier P-4-1600 512K cache	256 DDR	2x40.0 IBM 7200rpm	32Mb Millennium G450/32Mb GeForce2	52x		MB i845, RAID 0/1, 266MHz FSB	$885	БЕСТОР	303-90-91	Черныш.
+HP-Compaq Evo D510 e-pc P-4-1800	128	20.0 5400rpm		Slim CD		Win XP, б/п доставка	$886	ИНТЕГРАТОР	140-71-40	Елизар.
+HP-Compaq Evo D310 uDT P-4-1800	128	20.0		CD		LAN, Win XP, б/п доставка	$897	ИНТЕГРАТОР	140-71-40	Елизар.
+HP-Compaq Evo D310 uDT P-4-2000A	128	20.0		CD		LAN, Win XP, б/п доставка	$932	ИНТЕГРАТОР	140-71-40	Елизар.
+HP-Compaq Evo D310 uDT P-4-1800	256	40.0		CD		LAN, Win XP, б/п доставка	$980	ИНТЕГРАТОР	140-71-40	Елизар.
+HP-Compaq Evo D310 uDT P-4-1800	256	40.0		DVD		LAN, Win XP, б/п доставка	$1 012	ИНТЕГРАТОР	140-71-40	Елизар.
+HP-Compaq Evo D310 uDT P-4-2000A	256	40.0		CD		LAN, Win XP, б/п доставка	$1 024	ИНТЕГРАТОР	140-71-40	Елизар.
+HP-Compaq Vectra VL800 MT P-4-1900	128	40.0	GeForce2	CD		LAN, Win 2000, б/п доставка	$1 034	ИНТЕГРАТОР	140-71-40	Елизар.
+HP-Compaq Evo D310 uDT P-4-2000	256	40.0		DVD		LAN, Win XP, б/п доставка	$1 093	ИНТЕГРАТОР	140-71-40	Елизар.
+Bestor Fairy P-4-2000 512K cache	256 DDR	18.1 IBM 10000rpm	32Mb Millennium G450/32Mb GeForce2	DVD		MB i845, Ultra160, 266MHz FSB	$1 285	БЕСТОР	303-90-91	Черныш.
+HP-Compaq Evo D310 uDT P-4-2400	256	40.0		CD-RW		LAN, Win XP, б/п доставка	$1 346	ИНТЕГРАТОР	140-71-40	Елизар.
+ASCoD Explorer Pro P-4-2800 533MHz, MB i845PE	512 PC2700	80.0 UDMA/100	GeForce4 Ti4600 128Mb	CD-RW 40x12x48	Creative Live 5.1	CD-RW TEAC, полн. гар. 2г.	$1 369	ASCOD	325-15-55	Горьк.
+K7-1500+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	128 PC133	10.2 ATA/100	16Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$193	РиМ	327-15-02	Академ.
+K7-1600+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	128 PC133	10.2 ATA/100	16Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$194	РиМ	327-15-02	Академ.
+K7-1700+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	128 PC133	10.2 ATA/100	16Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$195	РиМ	327-15-02	Академ.
+K7-950 Athlon, MB Chaintech VIA KT133A	64	10.0	Riva TNT Vanta 16Mb		AC'97	предпродажная консульт., люб. измен., рассрочка на 1г.	$208	Петролайн	325-20-28	Пионер.
+K7-1500+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	128 PC133	20.4 ATA/100	ATI Rage 128 Pro 32Mb AGP		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$223	РиМ	327-20-20	Озерки
+K7-1600+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	128 PC133	20.4 ATA/100	ATI Rage 128 Pro 32Mb AGP		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$224	РиМ	153-83-65	Лен.пр.
+K7-1700+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	128 PC133	20.4 ATA/100	ATI Rage 128 Pro 32Mb AGP		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$225	РиМ	153-83-65	Лен.пр.
+K7-900 Athlon	128	20.4 ATA/100	ATI 3D 32Mb	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$240	НеваЛайн	164-53-77	Пл.Восст.
+K7-1500+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	128 PC133	20.4 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$253	РиМ	325-06-22	Н.черкас.
+K7-950 Athlon, MB Chaintech VIA KT133A	128	20.0	Riva TNT Vanta 16Mb	48x	AC'97	FDD, k., m., m.p., колонки, предпродажная консульт., люб. измен., рассрочка на 1г.	$253	Петролайн	325-20-28	Пионер.
+K7-1600+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	128 PC133	20.4 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$254	РиМ	325-06-22	Н.черкас.
+K7-1700+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	128 PC133	20.4 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$255	РиМ	325-06-22	Н.черкас.
+K7-1500+ Athlon XP	128	10.4 ATA/100	16Mb 3D	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$260	НеваЛайн	110-81-87	Пл.Восст.
+K7-1600+ Athlon XP, 266MHz FSB, Socket-A	128 PC133	20.2 UDMA/100	32Mb	52x	SB 16	корпус ATX 250W, гар., б/вых.	$265	Server-Comp	319-42-77	Г.Д.
+K7-1800+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	128 PC133	20.4 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$266	РиМ	325-06-22	Н.черкас.
+K7-1700+ Athlon XP Volcano II, MB VIA KT333	64 DDR	10.0	Riva TNT Vanta		16 bit	предпродажная консульт., люб. измен., рассрочка на 1г.	$270	Петролайн	325-20-28	Пионер.
+K7-1500+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$273	РиМ	325-35-35	Владим.
+K7-1600+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$274	РиМ	325-35-35	Владим.
+K7-1700+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$275	РиМ	325-35-35	Владим.
+K7-1900+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	128 PC133	20.4 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$278	РиМ	325-06-22	Н.черкас.
+K7-1500 Athlon XP, MB JetWay 830	128 DIMM	20.0	8-64Mb	48x-52x	SB	case ATX, k. 9901+ m. Netscroll	$280	ATS Plus	327-52-07	Петр.
+K7-1600 Athlon XP Palomino 3D Now! MMX, MB SiS 735, 266MHz FSB, Socket-A	128 PC133	20.5 Maxtor	GeForce2 MX200 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$282	IN-Tech	587-75-75	Пр.Больш.
+K7-1500 Athlon XP Palomino 3D Now! MMX, MB SiS 735, 266MHz FSB, Socket-A	128 PC133	20.5 Maxtor	GeForce2 MX200 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$283	IN-Tech	224-17-81	Пл.Лен.
+K7-1700 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	10,2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$285	РИК	327-34-10	Черныш.
+K7-1700 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	10.2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$285	Политехника	528-17-22	Н.черкас.
+K7-1800+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$286	РиМ	325-35-35	Владим.
+K7-1500 Athlon XP, MB VIA 266MHz FSB	128	20.5 UDMA/100	ATI 32Mb DDR	52x	onboard	гар. 2г.	$287	BeeBee comp.	596-59-75	Ч.речка
+K7-1600 Athlon XP, MB JetWay 830	128 DIMM	20.0	8-64Mb	48x-52x	SB	case ATX, k. 9901+ m. Netscroll	$290	ATS Plus	327-52-99	Петр.
+K7-1500 Athlon XP Palomino 3D Now! MMX, MB SiS 735, 266MHz FSB, Socket-A	128 PC133	41.0 Maxtor	GeForce2 MX400 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$291	IN-Tech	533-43-03	Академ.
+K7-1600 Athlon XP Palomino 3D Now! MMX, MB SiS 735, 266MHz FSB, Socket-A	128 PC133	41.0 Maxtor	GeForce2 MX400 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$293	IN-Tech	224-17-81	Пл.Лен.
+K7-1700+ Athlon XP, 266MHz FSB, Socket-A	128 PC133	40.2 UDMA/100	64Mb	52x	SB 16	корпус ATX 250W, гар., б/вых.	$295	Server-Comp	319-42-77	Г.Д.
+K7-1700 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$296	РИК	327-34-10	Черныш.
+K7-1800 Athlon XP Palomino 3D Now! MMX, MB SiS 735, 266MHz FSB, Socket-A	128 PC133	20.5 Maxtor	GeForce2 MX200 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$296	IN-Tech	587-75-75	Пр.Больш.
+K7-1700 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$296	Политехника	528-17-22	Н.черкас.
+K7-1800+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	128 DDR	20.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$297	РиМ	325-35-35	Владим.
+K7-1500 Athlon XP, MB VIA 266MHz FSB	128	20.5 UDMA/100	ATI 32Mb DDR	52x	onboard	гар. 2г.	$297	КЦ Паркан	596-56-65	Гражд.пр.
+K7-1900+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$298	РиМ	325-35-35	Владим.
+K7-1700 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	20,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$299	РИК	327-34-10	Черныш.
+K7-1700 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	20.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$299	Политехника	528-17-22	Н.черкас.
+K7-1700 Athlon XP, MB JetWay 830	128 DIMM	20.0	8-64Mb	48x-52x	SB	case ATX, k. 9901+ m. Netscroll	$300	ATS Plus	327-52-07	Петр.
+K7-1800 Athlon XP Palomino 3D Now! MMX, MB SiS 735, 266MHz FSB, Socket-A	128 PC133	41.0 Maxtor	GeForce2 MX400 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$305	IN-Tech	224-17-81	Пл.Лен.
+K7-1700 Athlon XP Palomino 3D Now! MMX, MB SiS 735, 266MHz FSB, Socket-A	128 PC133	41.0 Maxtor	GeForce2 MX400 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$305	IN-Tech	533-43-03	Академ.
+K7-1600 Athlon XP 266MHz, MB VIA KT266A	128 DDR PC2100	20.0 ATA/100	GeForce2 MX400 32Mb	52x	16bit	k., m., любые конфигур., upgrade	$305	МЕРИДИАН	245-42-35	Лесная
+K7-1800 Athlon XP, MB JetWay 830	128 DIMM	20.0	8-64Mb	48x-52x	SB	case ATX, k. 9901+ m. Netscroll	$305	ATS Plus	327-52-99	Петр.
+K7-2000+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$306	РиМ	325-35-35	Владим.
+K7-1800 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$306	Политехника	528-17-22	Н.черкас.
+K7-1700 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$306	Политехника	528-17-22	Н.черкас.
+K7-1800 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$307	РИК	327-34-10	Черныш.
+K7-1900 Athlon XP Palomino 3D Now! MMX, MB SiS 735, 266MHz FSB, Socket-A	128 PC133	20.5 Maxtor	GeForce2 MX200 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$307	IN-Tech	533-43-03	Академ.
+K7-1700 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	40,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$308	РИК	327-34-10	Черныш.
+K7-1700+ Athlon XP, MB KT266A ATX	128 DDR	10.0 ATA/100	32Mb GeForce2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$308	GENESIS	324-99-87	Ч.речка
+K7-1700 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	40.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$308	Политехника	528-17-22	Н.черкас.
+K7-1500+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 PC133	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$309	РиМ	153-83-65	Лен.пр.
+K7-1900+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	128 DDR	20.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$309	РиМ	325-35-35	Владим.
+K7-1700 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$309	РИК	327-34-10	Черныш.
+K7-1700 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	20.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$309	Политехника	528-17-22	Н.черкас.
+K7-1600+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 PC133	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$310	РиМ	327-20-20	Озерки
+K7-1500+ Athlon XP	256	40.0 ATA/100	GeForce2 32Mb AGP super 3D	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$310	НеваЛайн	164-53-77	Пл.Восст.
+K7-1600+ Athlon XP, 266MHz FSB, Socket-A	128 DDR PC2100	40.0 UDMA/100	GeForce MX400 64Mb	52x	SB 16	корпус ATX 250W, гар., б/вых.	$310	Server-Comp	319-42-77	Г.Д.
+K7-1700+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 PC133	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$311	РиМ	327-20-20	Озерки
+K7-1700 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	20,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$312	РИК	327-34-10	Черныш.
+K7-1600 Athlon XP 266MHz, MB VIA KT266A	256 DDR PC2100	20.0 ATA/100	GeForce2 MX400 32Mb	52x	16bit	k., m., любые конфигур., upgrade	$315	МЕРИДИАН	322-64-96	Лесная
+K7-1800 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$315	Политехника	528-17-22	Н.черкас.
+K7-1700 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$315	Политехника	528-17-22	Н.черкас.
+K7-1900 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$316	РИК	327-34-10	Черныш.
+K7-1800 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$316	РИК	327-34-10	Черныш.
+K7-1700+ Athlon XP Volcano II, MB VIA KT333	128 DDR	20.0	Riva TNT Vanta	48x	16 bit	FDD, k., m., m.p., колонки, предпродажная консульт., люб. измен., рассрочка на 1г.	$316	Петролайн	325-20-28	Пионер.
+K7-1800 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$316	Политехника	528-17-22	Н.черкас.
+K7-2000+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	128 DDR	20.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$317	РиМ	325-35-35	Владим.
+K7-1700+ Athlon XP, MB JetWay VIA KT266A	256 PC133	20.0 WD UDMA/100	GeForce2 MX400 64Mb	52x		CD-ROM LG, k., m. Genius, Mini Copper Orb	$317	Техномания	327-97-24	Фрунз.
+K7-1700 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$318	РИК	327-34-10	Черныш.
+K7-1800 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	40.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$318	Политехника	528-17-22	Н.черкас.
+K7-1700 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$318	Политехника	528-17-22	Н.черкас.
+K7-1800 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	40,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$319	РИК	327-34-10	Черныш.
+K7-1900 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$319	Политехника	528-17-22	Н.черкас.
+K7-1800 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$320	РИК	327-34-10	Черныш.
+K7-1900 Athlon XP, MB JetWay 830	128 DIMM	20.0	8-64Mb	48x-52x	SB	case ATX, k. 9901+ m. Netscroll	$320	ATS Plus	327-52-07	Петр.
+K7-2100+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$321	РиМ	325-35-35	Владим.
+K7-1700 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$321	РИК	327-34-10	Черныш.
+K7-1800+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 PC133	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$322	РиМ	153-83-65	Лен.пр.
+K7-2000+ Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$322	Политехника	528-17-22	Н.черкас.
+K7-2000+ Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$323	РИК	327-34-10	Черныш.
+K7-1900 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$325	РИК	327-34-10	Черныш.
+K7-1800 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$325	Политехника	528-17-22	Н.черкас.
+K7-1900 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	40,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$328	РИК	327-34-10	Черныш.
+K7-1900 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$328	Политехника	528-17-22	Н.черкас.
+K7-1800 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$328	Политехника	528-17-22	Н.черкас.
+K7-1900 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$329	РИК	327-34-10	Черныш.
+K7-1800 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$329	РИК	327-34-10	Черныш.
+K7-1900 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$329	Политехника	528-17-22	Н.черкас.
+K7-1800+ Athlon XP	128	20.4 ATA/100	ATI Radeon 32Mb	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$330	НеваЛайн	110-81-87	Пл.Восст.
+K7-2000+ Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$331	Политехника	528-17-22	Н.черкас.
+K7-1900 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	40.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$331	Политехника	528-17-22	Н.черкас.
+K7-2100+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	128 DDR	20.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$332	РиМ	325-35-35	Владим.
+K7-2000+ Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$332	РИК	327-34-10	Черныш.
+K7-1800 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$332	РИК	327-34-10	Черныш.
+K7-2000+ Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$332	Политехника	528-17-22	Н.черкас.
+K7-1700+ Athlon XP 266MHz FSB OEM	256 DDR 333MHz	20.0 Maxtor 5400rpm	GeForce MX200 64Mb OEM	52x	onboard	CD-ROM Mitsumi, гар. 3г., б/п доставка	$333	КВАНТ-НЕВА	274-03-02	Пл.Восст.
+K7-1900+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 PC133	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$334	РиМ	153-83-65	Лен.пр.
+K7-2000+ Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	40.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$334	Политехника	528-17-22	Н.черкас.
+K7-2000+ Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	128 PC133	40,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., возм. кредит	$335	РИК	327-34-10	Черныш.
+K7-2000+ Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$336	РИК	327-34-10	Черныш.
+K7-1900 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$338	РИК	327-34-10	Черныш.
+K7-1900 Athlon XP Palomino 3D Now! MMX, MB SiS 735, 266MHz FSB, Socket-A	128 PC133	41.0 Maxtor	GeForce4 MX420 64Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$338	IN-Tech	587-75-75	Пр.Больш.
+K7-1700+ Athlon XP, MB VIA KT266	128 DDR	30.0 7200rpm	GeForce2 MX400 64Mb	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$338	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-1900 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$338	Политехника	528-17-22	Н.черкас.
+K7-2000 Athlon XP Palomino 3D Now! MMX, MB SiS 735, 266MHz FSB, Socket-A	128 PC133	41.0 Maxtor	GeForce4 MX420 64Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$340	IN-Tech	224-17-81	Пл.Лен.
+K7-1600 Athlon XP 266MHz, MB VIA KT266A	256 DDR PC2100	40.0 ATA/100	GeForce2 MX400 32Mb	52x	16bit	k., m., любые конфигур., upgrade	$340	МЕРИДИАН	245-42-35	Лесная
+K7-2000 Athlon XP, MB JetWay 830	128 DIMM	20.0	8-64Mb	48x-52x	SB	case ATX, k. 9901+ m. Netscroll	$340	ATS Plus	327-52-99	Петр.
+K7-1900 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$341	РИК	327-34-10	Черныш.
+K7-2000+ Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$341	Политехника	528-17-22	Н.черкас.
+K7-1900 Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$341	Политехника	528-17-22	Н.черкас.
+K7-2000+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 PC133	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$342	РиМ	327-20-20	Озерки
+K7-2100+ Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$343	Политехника	528-17-22	Н.черкас.
+K7-2000+ Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$344	Политехника	528-17-22	Н.черкас.
+K7-2000+ Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$345	РИК	327-34-10	Черныш.
+K7-1800+ Athlon XP	256	40.4 ATA/100	GeForce2 32Mb AGP super 3D	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	от $345	НеваЛайн	164-53-77	Пл.Восст.
+K7-2100+ Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$347	РИК	327-34-10	Черныш.
+K7-1700+ Athlon XP, MB KT266A ATX	256 DDR	20.0 ATA/100	64Mb GeForce2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$347	GENESIS	324-99-86	Ч.речка
+K7-2000+ Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$348	РИК	327-34-10	Черныш.
+K7-1800+ Athlon XP, MB VIA KT266	128 DDR	30.0 7200rpm	GeForce2 MX400 64Mb	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$349	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-1600 Athlon XP	128	30.0	ATI Rage 128 Pro 32Mb	52x	onboard	ATX, гар. 2г., 5ч. Internet в подарок	$350	СВЕГА-ПЛЮС	327-46-30	В.О.
+K7-2100+ Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$352	Политехника	528-17-22	Н.черкас.
+K7-2000+ Athlon XP	256	40.4 ATA/100	GeForce 32Mb AGP super 3D	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$355	НеваЛайн	164-53-77	Пл.Восст.
+K7-2100+ Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$355	Политехника	528-17-22	Н.черкас.
+K7-2100+ Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$356	РИК	327-34-10	Черныш.
+K7-2000+ Athlon XP, MB VIA KT266A	128 DDR	40.0 ATA/100	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$356	GENESIS	324-99-86	Ч.речка
+K7-2100+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 PC133	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$357	РиМ	327-20-20	Озерки
+K7-2100+ Athlon XP Palomino 3D Now! MMX, MB VIA KT133A, 266MHz FSB, Socket-A	256 PC133	40,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$359	РИК	327-34-10	Черныш.
+K7-1500+ Athlon XP	256 DDR	40.0 7200rpm	GeForce4 64Mb AGP super 3D	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$360	НеваЛайн	164-53-77	Пл.Восст.
+K7-1600 Athlon XP	128	30.0	GeForce4 MX400 32Mb	52x	onboard	ATX, гар. 2г., 5ч. Internet в подарок	$360	СВЕГА-ПЛЮС	325-16-37	Лиг.пр.
+K7-1800+ Athlon XP, 266MHz FSB, Socket-A	256 DDR PC2100	40.0 7200rpm	GeForce MX400 64Mb	52x	SB 16	корпус ATX 250W, гар., б/вых.	$360	Server-Comp	319-42-77	Г.Д.
+K7-1900+ Athlon XP 266MHz FSB OEM	256 DDR 333MHz	20.0 Maxtor 5400rpm	GeForce MX200 64Mb OEM	52x	onboard	CD-ROM Mitsumi, гар. 3г., б/п доставка	$363	КВАНТ-НЕВА	274-02-00	Пл.Восст.
+K7-1700+ Athlon XP, MB KT266A ATX	256 DDR	40.0 IBM 7200rpm	64Mb GeForce2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$364	GENESIS	324-99-87	Ч.речка
+K7-2100+ Athlon XP, MB VIA KT266A, ATX	128 DDR	40.0 ATA/100	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$367	GENESIS	324-99-86	Ч.речка
+K7-1700 Athlon XP	128	30.0	ATI Rage 128 Pro 32Mb	52x	onboard	ATX, гар. 2г., 5ч. Internet в подарок	$370	СВЕГА-ПЛЮС	372-15-77	Лен.пр.
+K7-1800+ Athlon XP, MB KT266A ATX	256 DDR	40.0 ATA/100	32Mb GeForce2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$371	GENESIS	324-99-87	Ч.речка
+K7-1700+ Athlon XP, MB VIA KT333	256 DDR	30.0 7200rpm	GeForce2 MX400 64Mb	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$372	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-1800+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 DDR	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$373	РиМ	153-83-65	Лен.пр.
+K7-1800+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	512 PC133	60.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$376	РиМ	327-20-20	Озерки
+K7-1800+ Athlon XP	256 DDR	40.4 ATA/100	GeForce4 64Mb AGP super 3D	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$380	НеваЛайн	164-53-77	Пл.Восст.
+K7-1700 Athlon XP	128	30.0	GeForce4 MX400 32Mb	52x	onboard	ATX, гар. 2г., 5ч. Internet в подарок	$380	СВЕГА-ПЛЮС	325-16-37	Лиг.пр.
+K7-1800+ Athlon XP, MB KT266A ATX	256 DDR	40.0 Seag. 7200rpm	64Mb GeForce2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$381	GENESIS	324-99-86	Ч.речка
+K7-1800+ Athlon XP, MB VIA KT333	256 DDR	30.0 7200rpm	GeForce2 MX400 64Mb	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$383	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-2100+ Athlon XP 266MHz FSB OEM	256 DDR 333MHz	20.0 Maxtor 5400rpm	GeForce MX200 64Mb OEM	52x	onboard	CD-ROM Mitsumi, гар. 3г., б/п доставка	$383	КВАНТ-НЕВА	274-03-02	Пл.Восст.
+K7-1700+ Athlon XP, MB JetWay VIA KT266A	256 DDR PC2100	40.0 WD UDMA/100	GeForce4 MX440 64Mb TV-out	52x		CD-ROM LG, k., m. Genius	$384	Техномания	327-97-32	П.Победы
+K7-1900+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 DDR	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$385	РиМ	153-83-65	Лен.пр.
+K7-1900+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	512 PC133	60.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$388	РиМ	327-20-20	Озерки
+K7-2100+ Athlon XP, MB VIA KT333	128 DDR	30.0 7200rpm	GeForce2 MX400 64Mb	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$388	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-1900+ Athlon XP, MB KT266A ATX	256 DDR	40.0 Seag. 7200rpm	64Mb GeForce2	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$392	GENESIS	324-99-86	Ч.речка
+K7-2000+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 DDR	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$393	РиМ	153-83-65	Лен.пр.
+K7-2000+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	512 PC133	60.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$396	РиМ	153-83-65	Лен.пр.
+K7-2000+ Athlon XP, MB VIA KT266A	256 DDR	40.0 Seag. 7200rpm	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$397	GENESIS	324-99-87	Ч.речка
+K7-1700+ Athlon XP, MB VIA KT266	256 DDR	30.0 7200rpm	ATI Radeon 9000 64Mb DDR, DVI, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$397	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-1700+ Athlon XP, MB VIA KT266	256 DDR	40.0 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$398	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-950 Athlon, MB Chaintech VIA KT133A	128	20.0	32Mb, монитор 15" ТСО'95	52x	AC'97	FDD, k., m., m.p., колонки, предпродажная консульт., люб. измен., рассрочка на 1г.	$399	Петролайн	325-20-28	Пионер.
+K7-2000+ Athlon XP, MB VIA KT333	256 DDR	30.0 7200rpm	GeForce2 MX400 64Mb	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$400	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-1400 Athlon	128	30.0	GeForce4 MX400 32Mb	52x	onboard	ATX, гар. 2г., 5ч. Internet в подарок	$400	СВЕГА-ПЛЮС	325-16-37	Лиг.пр.
+K7-1800+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 DDR	60.0 Seagate 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$401	РиМ	325-06-22	Н.черкас.
+ASCoD Atlant XP K7-C2000+ Athlon XP, MB VIA KT266A	256	20.0 UDMA/133 7200rpm	ATI Radeon 7500 64Mb TV-out	52x	16bit, PCI	полн. гар. 2г.	$406	ASCOD	325-15-55	Горьк.
+K7-2100+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 DDR	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$408	РиМ	153-83-65	Лен.пр.
+K7-2100+ Athlon XP, MB VIA KT266A, ATX	256 DDR	40.0 Seagate 7200rpm	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$408	GENESIS	324-99-87	Ч.речка
+K7-1800+ Athlon XP, MB VIA KT266	256 DDR	30.0 7200rpm	ATI Radeon 9000 64Mb DDR, DVI, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$408	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-1800+ Athlon XP, MB VIA KT266	256 DDR	40.0 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$409	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-2100+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	512 PC133	60.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$411	РиМ	327-20-20	Озерки
+K7-1900+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 DDR	60.0 Seagate 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$413	РиМ	325-06-22	Н.черкас.
+K7-1400 Athlon	128	30.0	ATI Rage 128	52x	onboard	ATX, гар. 2г., 5ч. Internet в подарок	$415	СВЕГА-ПЛЮС	325-16-37	Лиг.пр.
+K7-1700 Athlon XP, MB MicroStar MS-6712 VIA KT400	128 DDR PC2700	40.0 IBM 7200rpm	MicroStar GeForce2 MX400 32Mb	52x	AC'97	CD-ROM MSI, CodeGen 300W ATX case, FDD Sony, k., m., полн. гар. 1.5г.	$417	ЭЛИКА+	325-86-41	Техн.и-т
+K7-1700+ Athlon XP, MB VIA KT333	256 DDR	61.0 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$418	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-2000+ Athlon XP	256 DDR	40.4 ATA/100	GeForce4 64Mb AGP super 3D	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$420	НеваЛайн	164-53-77	Пл.Восст.
+K7-2000+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 DDR	60.0 Seagate 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$421	РиМ	325-06-22	Н.черкас.
+K7-1700+ Athlon XP Socket-A, MB JetWay VIA KT333	128 DDR PC2100	40.0 Maxtor 5400	GeForce4 MX440 64Mb DDR	52x	AC'97	case ATX CodeGen 250W, k., m., гар. 1.5г.	$425	ЭЛИКА+	325-86-41	Техн.и-т
+K7-1700+ Athlon XP, MB VIA KT266	256 DDR	61.0 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$425	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-1800+ Athlon XP, MB VIA KT333	256 DDR	61.0 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$429	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-2100+ Athlon XP Palomino 3D Now!, MMX, 266MHz FSB, MB VIA KT266A, ATX	256 DDR	60.0 Seagate 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$436	РиМ	325-06-22	Н.черкас.
+K7-1800+ Athlon XP, MB JetWay VIA KT333 UDMA/133	256 DDR PC2700	40.0 WD UDMA/100	GeForce4 MX440 64Mb TV-out	52x		CD-ROM LG, k., m. Genius	$437	Техномания	327-07-38	Фрунз.
+K7-1800+ Athlon XP, MB VIA KT266	256 DDR	61.0 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$438	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-2000+ Athlon XP, MB VIA KT333	256 DDR	61.0 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$446	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-1700+ Athlon XP Volcano II, MB VIA KT333	128 DDR	20.0	GeForce MX400, монитор 15" TCO'95	48x	16 bit	FDD, k., m., m.p., колонки, предпродажная консульт., люб. измен., рассрочка на 1г.	$450	Петролайн	325-20-28	Пионер.
+K7-1700+ Athlon XP, MB VIA KT333	256 DDR	81.0 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$453	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-2100+ Athlon XP, MB VIA KT333	256 DDR	61.0 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$457	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-2000 Athlon XP 266MHz, MB VIAKT266A	256 DDR PC2100	40.0 ATA/100	GeForce2 MX400 32Mb	52x	16bit	k., m. + модем в подарок, любые конфигур., upgrade	$460	МЕРИДИАН	322-64-96	Лесная
+K7-1800+ Athlon XP, MB VIA KT333	256 DDR	81.0 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$463	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-2100+ Athlon XP, MB VIA KT333	256 DDR	40.0 7200rpm	ATI Radeon 9000 64Mb DDR, DVI, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$463	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-2000+ Athlon XP, MB MicroStar MS-6590-Ultra VIA KT400	256 DDR PC3200	40.0 Seagate 7200rpm	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$468	GENESIS	324-99-86	Ч.речка
+ASCoD Atlant XP K7-C2000+ Athlon XP, MB VIA KT333, UDMA/133	256 DDR PC2700	20.0 UDMA/133 7200rpm	ATI Radeon 9000 64Mb AGP TV-out	52x	16bit PCI	полн. гар. 2г.	$475	ASCOD	325-15-55	Горьк.
+K7-2100+ Athlon XP, MB MSI 6590-Ultra VIA KT400	256 DDR PC3200	40.0 Seagate 7200rpm	GeForce2 64Mb	52x	16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$479	GENESIS	324-99-86	Ч.речка
+K7-2000+ Athlon XP, MB VIA KT333	256 DDR	81.0 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$480	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-1700+ Athlon XP, MB VIA KT333	512 DDR	40.0 7200rpm	ATI Radeon 9000 64Mb DDR, DVI, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$482	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-2200 Athlon XP 266MHz, MB VIA KT333	256 DDR PC2700	40.0 ATA/100	GeForce2 MX400 32Mb	52x	16bit	k., m. + модем в подарок, любые конфигур., upgrade	$485	МЕРИДИАН	322-64-96	Лесная
+K7-2100+ Athlon XP, MB VIA KT333	256 DDR	81.0 7200rpm	GeForce4 MX440 128Mb DDR, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$491	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-1800+ Athlon XP, MB VIA KT333	512 DDR	40.0 7200rpm	ATI Radeon 9000 64Mb DDR, DVI, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$492	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-2200 Athlon XP 266MHz, MB MicroStar VIA KT400	256 DDR PC2700	40.0 ATA/100	GeForce2 MX400 32Mb	52x	16bit	k., m. + модем в подарок, любые конфигур., upgrade	$500	МЕРИДИАН	322-64-96	Лесная
+K7-2000+ Athlon XP, MB VIA KT333	512 DDR	40.0 7200rpm	ATI Radeon 9000 64Mb DDR, DVI, TV-out	52x	SB 16bit	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$509	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-2000+ Athlon XP, MB MSI 6712 VIA KT400, AGP 8x	256 DDR	61.0 Seagate 7200rpm	GeForce4 Ti4200 64Mb DDR	52x	6ch.	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$552	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-1700+ Athlon XP, MB MSI 6712 VIA KT400, AGP 8x	512 DDR	81.0 Seagate 7200rpm	GeForce4 Ti4200 64Mb DDR	52x	6ch.	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$591	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-1800+ Athlon XP, MB MSI 6712 VIA KT400, AGP 8x	512 DDR	81.0 Seagate 7200rpm	GeForce4 Ti4200 64Mb DDR	52x	6ch.	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$601	Стэл ЛТД	164-31-27	Лиг.пр.
+K7-2000+ Athlon XP, MB MSI 6712 VIA KT400, AGP 8x	512 DDR	81.0 Seagate 7200rpm	ATI Radeon 9000 Pro 128Mb DDR, DVI, TV-out	52x	6ch.	CD-ROM Samsung, case ATX 250W, spk.100W, подарок (k. PS/2, m. BTC Netscroll), гар.1.5+1.5г.	$611	Стэл ЛТД	164-31-27	Лиг.пр.	
+Desc Home A K7-2000+ Athlon XP, MB Soltek SL-75DRV5	256 DDR PC2700	80.0 Samsung 7200rpm	ASUS V8420/TD GeForce4 Ti4200 64Mb DDR DVI TV-out	52x	onboard	CD-ROM Samsung, k., m., гар. 1г.	$662	D.S.C. Group	113-76-68	Садовая
+ASCoD Atlant T K7-2400+ Athlon XP, MB VIA KT400, UDMA/133	512 DDR PC3200	80.0 7200rpm	ATI Radeon 9700 128Mb AGP 8x	CD-RW 40x12x48	Creative Live 5.1	CD-RW TEAC, полн. гар. 2г.	$1 199	ASCOD	325-15-55	Горьк.
+K7-800 Duron, MB VIA KT266A, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	128 PC133	10.2 ATA/100	16Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$163	РиМ	327-20-20	Озерки
+K7-900 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	128 PC133	10.2 ATA/100	16Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$164	РиМ	327-20-20	Озерки
+K7-950 Duron, MB VIA KT266A, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	128 PC133	10.2 ATA/100	16Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$165	РиМ	327-20-20	Озерки
+K7-1000 Duron, MB VIA KT266A, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	128 PC133	10.2 ATA/100	16Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$168	РиМ	327-15-02	Академ.
+K7-1100 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	128 PC133	10.2 ATA/100	16Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$171	РиМ	327-15-02	Академ.
+K7-1200 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	128 PC133	10.2 ATA/100	16Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$173	РиМ	327-15-02	Академ.
+K7-800 Duron, MB VIA KT266	64	10.2 UDMA	onboard		onboard	гар. 2г.	$174	КЦ Паркан	596-56-65	Гражд.пр.
+K7-800 Duron, MB VIA KT266	64	10.2 UDMA	onboard		onboard	гар. 2г.	$174	BeeBee comp.	596-59-75	Ч.речка
+K7-1300 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	128 PC133	10.2 ATA/100	16Mb		Sound	гар. 3г., люб. изм. конф., дост. б/п, TopPlan в подарок!, 4% скидка учащимся	$176	РиМ	327-15-02	Академ.
+K7-750 Duron	128 (64) PC133	10.0 ATA/100	8Mb AGP	52x	16bit	офисная станция, k., m., любые конфигур., upgrade	$180	МЕРИДИАН	245-42-35	Лесная
+K7-800 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	10,2	on board		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$187	РИК	327-34-10	Черныш.
+K7-800 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	10.2	onboard		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$187	Политехника	528-17-22	Н.черкас.
+K7-850 Duron	64	10.4 ATA/100	16Mb 3D	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$190	НеваЛайн	110-81-87	Пл.Восст.
+K7-800 Duron, MB VIA KT266A, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	128 PC133	20.4 ATA/100	ATI Rage 128 Pro 32Mb AGP		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$193	РиМ	153-83-65	Лен.пр.
+K7-900 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	128 PC133	20.4 ATA/100	ATI Rage 128 Pro 32Mb AGP		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$194	РиМ	153-83-65	Лен.пр.
+K7-950 Duron, MB VIA KT266A, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	128 PC133	20.4 ATA/100	ATI Rage 128 Pro 32Mb AGP		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$195	РиМ	153-83-65	Лен.пр.
+K7-800 Duron Socket-A	128 DIMM	20.0 Maxtor 5400rpm	onboard		onboard	гар. 3г., б/п дост.	$196	КВАНТ-НЕВА	274-03-02	Пл.Восст.
+K7-1000 Duron, MB VIA KT266A, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	128 PC133	20.4 ATA/100	ATI Rage 128 Pro 32Mb AGP		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$198	РиМ	153-83-65	Лен.пр.
+K7-900 Duron Socket-A	128 DIMM	20.0 Maxtor 5400rpm	onboard		onboard	гар. 3г., б/п дост.	$198	КВАНТ-НЕВА	274-02-00	Пл.Восст.
+K7-850 Duron, MB VIA KT133	128	20.4 UDMA/100	16Mb 3D	48x	16bit	гар. 2г.	$200	КЦ Паркан	596-56-65	Гражд.пр.
+K7-950 Duron Socket-A	128 DIMM	20.0 Maxtor 5400rpm	onboard		onboard	гар. 3г., б/п дост.	$200	КВАНТ-НЕВА	274-03-02	Пл.Восст.
+K7-850 Duron, MB VIA KT133	128	20.4 UDMA/100	16Mb 3D	48x	16bit	гар. 2г.	$200	BeeBee comp.	596-59-75	Ч.речка
+K7-850 Duron	128	20.4 ATA/100	16Mb 3D	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	от $200	НеваЛайн	110-81-87	Пл.Восст.
+K7-1100 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	128 PC133	20.4 ATA/100	ATI Rage 128 Pro 32Mb AGP		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$201	РиМ	153-83-65	Лен.пр.
+K7-800 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	10,2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$201	РИК	327-34-10	Черныш.
+K7-800 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	20,5	on board		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$201	РИК	327-34-10	Черныш.
+K7-800 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	10.2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$201	Политехника	528-17-22	Н.черкас.
+K7-800 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	20.5	onboard		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$201	Политехника	528-17-22	Н.черкас.
+K7-900 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	10,2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$202	РИК	327-34-10	Черныш.
+K7-1100 Duron Socket-A	128 DIMM	20.0 Maxtor 5400rpm	onboard		onboard	гар. 3г., б/п дост.	$202	КВАНТ-НЕВА	274-02-00	Пл.Восст.
+K7-900 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	10.2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$202	Политехника	528-17-22	Н.черкас.
+K7-1200 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	128 PC133	20.4 ATA/100	ATI Rage 128 Pro 32Mb AGP		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$203	РиМ	153-83-65	Лен.пр.
+K7-950 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	10,2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$203	РИК	327-34-10	Черныш.
+K7-950 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	10.2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$203	Политехника	528-17-22	Н.черкас.
+K7-1100 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	10,2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$205	РИК	327-34-10	Черныш.
+K7-1100 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	10.2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$205	Политехника	528-17-22	Н.черкас.
+K7-1300 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	128 PC133	20.4 ATA/100	ATI Rage 128 Pro 32Mb AGP		Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$206	РиМ	153-83-65	Лен.пр.
+K7-950 Duron Socket-A, MB Tiga VIA KLE133	128 PC133	20.0 Maxtor 5400	on board 3D		AC'97	ATX, k., m., полн. гар. 1.5г.	$207	ЭЛИКА+	325-86-41	Техн.и-т
+K7-1200 Duron Socket-A	128 DIMM	20.0 Maxtor 5400rpm	onboard		onboard	гар. 3г., б/п дост.	$207	КВАНТ-НЕВА	274-03-02	Пл.Восст.
+K7-1000 Duron	128	10.4 ATA/100	16Mb 3D	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$210	НеваЛайн	164-62-53	Пл.Восст.
+K7-1200 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	10,2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$211	РИК	327-34-10	Черныш.
+K7-1200 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	10.2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$211	Политехника	528-17-22	Н.черкас.
+K7-1300 Duron Socket-A	128 DIMM	20.0 Maxtor 5400rpm	onboard		onboard	гар. 3г., б/п дост.	$213	КВАНТ-НЕВА	274-03-02	Пл.Восст.
+K7-800 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	20,5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$215	РИК	327-34-10	Черныш.
+K7-1300 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	10.2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$215	Политехника	528-17-22	Н.черкас.
+K7-800 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	20.5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$215	Политехника	528-17-22	Н.черкас.
+K7-900 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	20,5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$216	РИК	327-34-10	Черныш.
+K7-900 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	20.5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$216	Политехника	528-17-22	Н.черкас.
+K7-1300 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	10,2	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$217	РИК	327-34-10	Черныш.
+K7-950 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	20,5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$217	РИК	327-34-10	Черныш.
+K7-800 Duron 3D Now! MMX, MB VIA KT133A, 200MHz FSB, Socket-A	128 PC133	41.0 Maxtor	Trident Blade 3D 8Mb AGP	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$217	IN-Tech	224-17-81	Пл.Лен.
+K7-950 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	20.5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$217	Политехника	528-17-22	Н.черкас.
+K7-1100 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	20,5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$219	РИК	327-34-10	Черныш.
+K7-1200 Duron 3D Now! MMX, MB VIA KT133A, 200MHz FSB, Socket-A	128 PC133	20.5 Maxtor	Trident Blade 3D 8Mb AGP	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$219	IN-Tech	533-43-03	Академ.
+K7-1100 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	20.5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$219	Политехника	528-17-22	Н.черкас.
+K7-900 Duron 3D Now!, MB UDMA/100, FSB 266MHz, Socket-A	64 PC133	10.0 UDMA/100	32Mb AGP	52x	SB 16	корпус ATX 250W, сетевая карта 10/100, гар., б/вых.	$220	Server-Comp	319-42-77	Г.Д.
+K7-800 Duron, MB VIA KT266A, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$223	РиМ	325-06-22	Н.черкас.
+K7-900 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$224	РиМ	325-06-22	Н.черкас.
+K7-950 Duron, MB VIA KT266A, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$225	РиМ	325-06-22	Н.черкас.
+K7-1200 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	20,5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$225	РИК	327-34-10	Черныш.
+K7-1000 Duron (Morgan) 3D Now!, MMX, SSE, MB VIA KT133A, 200MHz FSB, Socket-A	128 PC133	41.0 Maxtor	Trident Blade 3D 8Mb AGP	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$225	IN-Tech	224-17-81	Пл.Лен.
+K7-1200 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	20.5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$225	Политехника	528-17-22	Н.черкас.
+K7-1200 Duron 3D Now! MMX, MB VIA KT133A, 200MHz FSB, Socket-A	128 PC133	41.0 Maxtor	Trident Blade 3D 8Mb AGP	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$226	IN-Tech	587-75-75	Пр.Больш.
+K7-1000 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	256 PC133	20.0 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$228	РиМ	325-06-22	Н.черкас.
+K7-1300 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	20.5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$229	Политехника	528-17-22	Н.черкас.
+K7-1100 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	128 PC133	20.4 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$231	РиМ	325-06-22	Н.черкас.
+K7-1300 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	20,5	ATI 8Mb AGP		SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$231	РИК	327-34-10	Черныш.
+K7-1200 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	128 PC133	20.4 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$233	РиМ	325-06-22	Н.черкас.
+K7-800 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	10,2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$234	РИК	327-34-10	Черныш.
+K7-800 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	10.2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$234	Политехника	528-17-22	Н.черкас.
+K7-900 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	10,2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$235	РИК	327-34-10	Черныш.
+K7-1000 Duron (Morgan) 3D Now!, MMX, SSE, MB VIA KT133A, 200MHz FSB, Socket-A	256 PC133	20.5 Maxtor	Trident Blade 3D 8Mb AGP	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$235	IN-Tech	533-43-03	Академ.
+K7-1200 Duron, MB VIA KT266A	128 DDR PC2100	20.0 ATA/100	GeForce2 MX400 32Mb	52x	16bit	k., m., любые конфигур., upgrade	$235	МЕРИДИАН	322-64-96	Лесная
+K7-900 Duron 3D Now!, MB UDMA/100, FSB 266MHz, Socket-A	128 PC133	40.0 UDMA/100	32Mb AGP	52x	SB 16	корпус ATX 250W, сетевая карта 10/100, гар., б/вых.	$235	Server-Comp	319-42-77	Г.Д.
+K7-900 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	10.2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$235	Политехника	528-17-22	Н.черкас.
+K7-1300 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	256 PC133	20.4 ATA/100	GeForce2 MX400 32Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$236	РиМ	325-06-22	Н.черкас.
+K7-950 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	10,2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$236	РИК	327-34-10	Черныш.
+K7-950 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	10.2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$236	Политехника	528-17-22	Н.черкас.
+K7-1100 Duron 3D Now MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	10,2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$238	РИК	327-34-10	Черныш.
+K7-1000 Duron (Morgan) 3D Now!, MMX, SSE, MB VIA KT133A, 200MHz FSB, Socket-A	256 PC133	41.0 Maxtor	Trident Blade 3D 8Mb AGP	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$238	IN-Tech	587-75-75	Пр.Больш.
+K7-1100 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	10.2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$238	Политехника	528-17-22	Н.черкас.
+Home Standart K7-950 Duron	128	20.0 Seagate 5400rpm	onboard	52x	SB	MB MS 6378, Volcano II, ATX-235, FDD, CD-ROM LG, изм. конфигур.	$242	СТРОНГ	325-32-72	Елизар.
+K7-800 Duron, MB VIA KT266A, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	256 PC133	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb, DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$243	РиМ	325-35-35	Владим.
+K7-900 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	256 PC133	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb, DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$244	РиМ	325-35-35	Владим.
+K7-1200 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	10,2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$244	РИК	327-34-10	Черныш.
+K7-1200 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	10.2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$244	Политехника	528-17-22	Н.черкас.
+K7-800 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	256 PC133	10.2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$244	Политехника	528-17-22	Н.черкас.
+K7-950 Duron, MB VIA KT266A, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	256 PC133	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb, DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$245	РиМ	325-35-35	Владим.
+K7-950 Duron, MB JetWay 830	128 DIMM	20.0	8-64Mb	48x-52x	SB	case ATX, k. 9901+ m. Netscroll	$245	ATS Plus	327-52-99	Петр.
+K7-900 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	256 PC133	10.2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$245	Политехника	528-17-22	Н.черкас.
+K7-950 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	256 PC133	10.2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$246	Политехника	528-17-22	Н.черкас.
+K7-800 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	256 PC133	10,2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$247	РИК	327-34-10	Черныш.
+K7-1000 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$248	РиМ	325-35-35	Владим.
+K7-900 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	256 PC133	10,2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$248	РИК	327-34-10	Черныш.
+K7-1300 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	10.2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$248	Политехника	528-17-22	Н.черкас.
+K7-1100 Duron 3D Now MMX, MB VIA KT133, 200MHz FSB, Socket-A	256 PC133	10.2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$248	Политехника	528-17-22	Н.черкас.
+K7-950 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	256 PC133	10,2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$249	РИК	327-34-10	Черныш.
+K7-1300 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	10,2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$250	РИК	327-34-10	Черныш.
+K7-1100 Duron, MB JetWay 830	128 DIMM	20.0	8-64Mb	48x-52x	SB	case ATX, k. 9901+ m. Netscroll	$250	ATS Plus	327-52-07	Петр.
+K7-1000 Duron	256	40.4 ATA/100	GeForce2 32Mb AGP super 3D	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	от $250	НеваЛайн	164-62-53	Пл.Восст.
+K7-1100 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$251	РиМ	325-35-35	Владим.
+K7-1100 Duron 3D Now MMX, MB VIA KT133, 200 FSB, Socket-A	256 PC133	10,2	Riva TNT 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$251	РИК	327-34-10	Черныш.
+K7-1200 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$253	РиМ	325-35-35	Владим.
+ASCoD Atlant K7-1000 Duron, MB SiS 730, ATX	128 PC133	20.0 UDMA/100	SiS AGP onboard + AGP-slot	52x	16bit PCI	полн. гар. 2г.	$255	ASCOD	325-15-55	Горьк.
+K7-1000 Duron (Morgan) 3D Now!, MMX, SSE, MB VIA KT133A, 200MHz FSB, Socket-A	128 PC133	20.5 Maxtor	GeForce2 MX400 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$255	IN-Tech	224-17-81	Пл.Лен.	
+K7-1300 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	256 PC133	40.0 ATA/100	GeForce2 MX400 64Mb	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$256	РиМ	325-35-35	Владим.
+K7-1200 Duron 3D Now! MMX, MB VIA KT133A, 200MHz FSB, Socket-A	128 PC133	20.5 Maxtor	GeForce2 MX400 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$256	IN-Tech	224-17-81	Пл.Лен.
+K7-800 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	20,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$257	РИК	327-34-10	Черныш.
+K7-800 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	20.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$257	Политехника	528-17-22	Н.черкас.
+K7-900 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	20,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$258	РИК	327-34-10	Черныш.
+K7-900 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	10.2	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$258	Политехника	528-17-22	Н.черкас.
+K7-950 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	20,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$259	РИК	327-34-10	Черныш.
+K7-950 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	20.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$259	Политехника	528-17-22	Н.черкас.
+K7-1100 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	20,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$261	РИК	327-34-10	Черныш.
+K7-1200 Duron 3D Now! MMX, MB VIA KT133A, 200MHz FSB, Socket-A	128 PC133	41.0 Maxtor	GeForce2 MX400 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$261	IN-Tech	533-43-03	Академ.
+K7-1100 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	20.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$261	Политехника	528-17-22	Н.черкас.
+K7-1000 Duron (Morgan) 3D Now!, MMX, SSE, MB VIA KT133A, 200MHz FSB, Socket-A	128 PC133	41.0 Maxtor	GeForce2 MX400 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$262	IN-Tech	533-43-03	Академ.	
+K7-1200 Duron 3D Now! MMX, MB VIA KT133A, 200MHz FSB, Socket-A	128 PC133	41.0 Maxtor	GeForce2 MX400 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$263	IN-Tech	587-75-75	Пр.Больш.
+K7-1300 Duron, MB JetWay 830	128 DIMM	20.0	8-64Mb	48x-52x	SB	case ATX, k. 9901+ m. Netscroll	$265	ATS Plus	327-52-99	Петр.
+K7-1300 Duron 3D Now!, MB UDMA/100, 266MHz, Socket-A	256 PC133	40.0 UDMA/100	64Mb AGP	52x	SB 16	корпус ATX 250W, сетевая карта 10/100, гар., б/вых.	$265	Server-Comp	319-42-77	Г.Д.
+K7-1200 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	128 PC133	20,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$267	РИК	327-34-10	Черныш.
+K7-1200 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	20.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$267	Политехника	528-17-22	Н.черкас.
+K7-800 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	256 PC133	20.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$267	Политехника	528-17-22	Н.черкас.
+K7-900 Duron, MB JetWay VIA KT266A	128 PC133	20.0 WD UDMA/100	GeForce2 MX400 32Mb	52x		CD-ROM LG, k., m. Genius	$268	Техномания	327-07-38	Фрунз.
+K7-900 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	256 PC133	20.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$268	Политехника	528-17-22	Н.черкас.
+K7-950 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	256 PC133	20.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$269	Политехника	528-17-22	Н.черкас.
+K7-800 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	256 PC133	20,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$270	РИК	327-34-10	Черныш.
+K7-1200 Duron	128	20.4 ATA/100	ATI 3D 32Mb	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	от $270	НеваЛайн	164-62-53	Пл.Восст.
+K7-900 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	256 PC133	20,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$271	РИК	327-34-10	Черныш.
+K7-1300 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	20.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$271	Политехника	528-17-22	Н.черкас.
+K7-1100 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	256 PC133	20.5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$271	Политехника	528-17-22	Н.черкас.
+K7-950 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	256 PC133	20,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$272	РИК	327-34-10	Черныш.
+K7-1300 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	128 PC133	20,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$273	РИК	327-34-10	Черныш.
+K7-1100 Duron 3D Now MMX, MB VIA KT133, 200 FSB, Socket-A	256 PC133	20,5	ATI Radeon 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$274	РИК	327-34-10	Черныш.
+K7-1000 Duron (Morgan) 3D Now!, MMX, SSE, MB VIA KT133A, 200MHz FSB, Socket-A	256 PC133	41.0 Maxtor	GeForce2 MX400 32Mb	52x	SB 3D	CD-ROM LG, кредит!, люб. изм. конф., модернизация, гар. до 3лет, скидки пост. клиентам и орг.	$275	IN-Tech	587-75-75	Пр.Больш.
+K7-1200 Duron, MB MicroStar MS-6378 Socket-A	256 PC133	10.0 ATA/100	GeForce2 32Mb	52x	SB 16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$276	GENESIS	324-99-87	Ч.речка
+K7-1200 Duron	256	40.4 ATA/100	GeForce2 32Mb AGP super 3D	48x	SB 3D	гар. до 3л., подарок - TopPlan, люб. конф., ремонт, нал./б/нал.	$276	НеваЛайн	164-62-53	Пл.Восст.
+K7-1000 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	256 PC133	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$284	РиМ	327-20-20	Озерки
+K7-800 Duron 3D Now! MMX, MB VIA KT133, 200MHz FSB, Socket-A	512 PC133	20.5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., установим любое ПО, кредит	$286	Политехника	528-17-22	Н.черкас.
+K7-1100 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	256 PC133	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$287	РиМ	327-20-20	Озерки
+K7-1100 Duron Socket-A, MB JetWay VIA KT266	128 DDR PC2100	40.0 Maxtor 5400	GeForce2 MX400 32Mb		AC'97	ATX, k., m., гар. 1.5г.	$288	ЭЛИКА+	325-86-41	Техн.и-т
+K7-1200 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	256 PC133	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$289	РиМ	327-20-20	Озерки
+K7-800 Duron 3D Now! MMX, MB VIA KT133, 200 FSB, Socket-A	512 PC133	20,5	GeForce 32Mb	52x	SB 16bit	k., m., гар. 2г., люб. изм. конфиг., кредит	$289	РИК	327-34-10	Черныш.
+K7-1300 Duron, MB VIA KT266А, 3D Now! MMX, 200MHz FSB, Socket-A, ATX	256 PC133	40.0 Seagate 7200rpm	GeForce4 MX440 64Mb DDR, TV-out	52x	Sound	гар. 3г., люб. изм. конф., дост. б/п!, 4% скидка учащимся	$292	РиМ	327-20-20	Озерки
+K7-1300 Duron	128	20.0	GeForce2 64Mb	52x	SB	в подарок - модем 56K	$327	КИТ	542-81-58	Пл.А.Нев.
+ASCoD Atlant Pro K7-1700+ Athlon XP, MB VIA KT266A, ATX	256 DDR PC2100	20.0 UDMA/100	ATI Radeon VE 32Mb AGP	52x	16bit PCI	полн. гар. 2г.	$351	ASCOD	325-15-55	Горьк.
+K7-1300 Duron 3D Now!, MB UDMA/100	128 PC133	40.0 UDMA/100	GeForce2 MX400 64Mb, 15" 800x600/85Hz	52x	SB 16	корпус, б/вых.	$360	Server-Comp	319-42-77	Г.Д.
+K7-950 Duron Socket-A, MB MSI 6380E VIA KT333	128 DDR PC2700	40.0 IBM 7200rpm	MSI GeForce2 MX400 32Mb	52x	AC'97	CD-ROM MSI, CodeGen 300W ATX case, FDD Sony, k., m., полн. гар. 1.5г.	$373	ЭЛИКА+	325-86-41	Техн.и-т
+K7-1300 Duron 3D Now!, MB UDMA/100, 266MHz FSB, Socket-A	128 DDR 2100	40.0 UDMA/100	GeForce2 MX400 64Mb, 17" 1024x768/85Hz	52x	SB 16	корпус ATX 250W, гар., б/вых.	$400	Server-Comp	319-42-77	Г.Д.
+K7-1300 Duron 1300, MB VIA KT266A ATX	256 PC133	40.0 Seag. 7200rpm	GeForce2 64Mb, Samsung 17" плоский 0.24	52x	SB 16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$488	GENESIS	324-99-87	Ч.речка
+K7-1200 Duron 1200, MB VIA KT266A ATX	256 DDR	40.0 Seag. 7200rpm	GeForce2 64Mb, Samsung 17" плоский 0.24	52x	SB 16bit	k. Win'98, m., люб. измен. конфигур., б/п доставка, полн. гар. 2г., кредит (29% в год)	$530	GENESIS	324-99-86	Ч.речка
