@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MARSH", "MARSH.csproj", "{27899F88-1B64-4EF9-BEDF-0FBE23AC6874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27899F88-1B64-4EF9-BEDF-0FBE23AC6874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27899F88-1B64-4EF9-BEDF-0FBE23AC6874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27899F88-1B64-4EF9-BEDF-0FBE23AC6874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27899F88-1B64-4EF9-BEDF-0FBE23AC6874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACA03876-E307-4A11-B568-C87E4E9A4758}
+	EndGlobalSection
+EndGlobal
