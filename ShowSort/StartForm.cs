@@ -19,13 +19,9 @@ namespace ShowSort
 
         private Chart chart = new Chart();
 
-        private readonly BackgroundWorker back = new BackgroundWorker();
-
         public StartForm()
         {
             InitializeComponent();
-            back.WorkerSupportsCancellation=true;
-            back.DoWork += BackDoWork;
         }
 
         private void FileMenuItemClick(object sender, EventArgs e)
@@ -56,7 +52,11 @@ namespace ShowSort
 
         private void AnimateMenuItemClick(object sender, EventArgs e)
         {
+
             Controls.Remove(chart);
+            var back= new BackgroundWorker();
+            back.DoWork+=BackDoWork;
+            Thread.Sleep(10);
             chart.Dispose();
             chart = CreateChart();
             Controls.Add(chart);

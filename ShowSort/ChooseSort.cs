@@ -17,7 +17,7 @@ namespace ShowSort
 
         public void Sort(Chart chart)
         {
-            lock(chart)
+            try
             {
             var list = chart.Series[0].Points;
             for (int i = 0; i < list.Count-1; i++)
@@ -40,6 +40,10 @@ namespace ShowSort
                 chart.Invoke(new UpdateChart(UpdateChart1),chart);
             }
             }
+                catch
+                {
+                    return;
+                }
         }
 
         private void ColorChange(int index, Chart chart, Color color)
