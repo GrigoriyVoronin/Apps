@@ -1,0 +1,72 @@
+@value FONT_NAME: 'Segoe UI';
+@value FONT_URL: '//c.s-microsoft.com/static/fonts/segoe-ui/cyrillic';
+
+@font-face {
+    font-family: FONT_NAME;
+    font-weight: 200;
+    src: local("Segoe UI Light"), local("SegoeUI-Light"), url(FONT_URL/light/latest.woff2) format("woff2"), url(FONT_URL/light/latest.woff) format("woff");
+}
+
+@font-face {
+    font-family: FONT_NAME;
+    font-weight: 300;
+    src: local("Segoe UI Semilight"), local("SegoeUI-Semilight"), url(FONT_URL/semilight/latest.woff2) format("woff2"), url(FONT_URL/semilight/latest.woff) format("woff");
+}
+
+@font-face {
+    font-family: FONT_NAME;
+    font-weight: 400;
+    src: local("Segoe UI"), local("SegoeUI"), url(FONT_URL/normal/latest.woff2) format("woff2"), url(FONT_URL/normal/latest.woff) format("woff");
+}
+
+@font-face {
+    font-family: FONT_NAME;
+    font-weight: 600;
+    src: local("Segoe UI Semibold"), local("SegoeUI-Semibold"), url(FONT_URL/semibold/latest.woff2) format("woff2"), url(FONT_URL/semibold/latest.woff) format("woff");
+}
+
+@font-face {
+    font-family: FONT_NAME;
+    font-weight: 700;
+    src: local("Segoe UI Bold"), local("SegoeUI-Bold"), url(FONT_URL/bold/latest.woff2) format("woff2"), url(FONT_URL/bold/latest.woff) format("woff");
+}
+
+@font-face {
+    font-family: FONT_NAME;
+    font-style: italic;
+    font-weight: 200;
+    src: local("Segoe UI Light Italic"), local("SegoeUI-LightItalic"), url(FONT_URL/light-italic/latest.woff2) format("woff2"), url(FONT_URL/light-italic/latest.woff) format("woff");
+}
+
+@font-face {
+    font-family: FONT_NAME;
+    font-style: italic;
+    font-weight: 300;
+    src: local("Segoe UI Semilight Italic"), local("SegoeUI-SemilightItalic"), url(FONT_URL/semilight-italic/latest.woff2) format("woff2"), url(FONT_URL/semilight-italic/latest.woff) format("woff");
+}
+
+@font-face {
+    font-family: FONT_NAME;
+    font-style: italic;
+    font-weight: 400;
+    src: local("Segoe UI Italic"), local("SegoeUI-Italic"), url(FONT_URL/italic/latest.woff2) format("woff2"), url(FONT_URL/italic/latest.woff) format("woff");
+}
+
+@font-face {
+    font-family: FONT_NAME;
+    font-style: italic;
+    font-weight: 600;
+    src: local("Segoe UI Semibold Italic"), local("SegoeUI-SemiboldItalic"), url(FONT_URL/semibold-italic/latest.woff2) format("woff2"), url(FONT_URL/semibold-italic/latest.woff) format("woff");
+}
+
+@font-face {
+    font-family: FONT_NAME;
+    font-style: italic;
+    font-weight: 700;
+    src: local("Segoe UI Bold Italic"), local("SegoeUI-BoldItalic"), url(FONT_URL/bold-italic/latest.woff2) format("woff2"), url(FONT_URL/bold-italic/latest.woff) format("woff");
+}
+
+body,
+button {
+    font-family: "Segoe UI", "Helvetica Neue", "Roboto", "Arial", "Liberation Sans", "Nimbus Sans L", "Tahoma", sans-serif;
+}

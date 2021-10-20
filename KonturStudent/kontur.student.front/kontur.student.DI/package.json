@@ -1,0 +1,20 @@
+{
+  "name": "kontur.student.di",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inversify": "5.0.1",
+    "inversify-inject-decorators": "3.1.0",
+    "reflect-metadata": "0.1.13",
+    "kontur.student.services": "1.0.0",
+    "kontur.student.data": "1.0.0",
+    "kontur.student.ui": "1.0.0",
+    "kontur.student.routing": "1.0.0"
+  }
+}

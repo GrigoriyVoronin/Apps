@@ -1,0 +1,50 @@
+.defaultPage {
+    padding: 90px 0 117px 0;
+}
+
+.bannerContainer {
+    display: flex;
+    margin: auto;
+    align-items: center;
+    flex-direction: column;
+}
+
+.banner {
+    font-family: Segoe UI, serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+}
+
+.secondBanner {
+    font-family: Segoe UI, serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.textContainer {
+    margin: 20px 95px 0 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.text {
+    font-family: Segoe UI, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+
+    margin: 5px;
+}
+
+.link {
+    color: #3072c4;
+}
+
+.link:visited {
+    color: #3072c4;
+}

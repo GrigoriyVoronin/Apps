@@ -1,0 +1,61 @@
+.projectsPage {
+    margin: 83px 92px 83px 226px;
+    padding-bottom: 48px;
+}
+
+.projectsTitle{
+    padding: 48px 0 37px 0;
+}
+
+.addProjectButton {
+    height: 46px;
+    max-width: 218px;
+    margin-bottom: 50px;
+}
+
+.projectCard {
+    margin: 0 0 50px 0;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25);
+    display: flex;
+    flex-flow: row;
+    height: 224px;
+}
+
+.projectCard:hover {
+    background: #f2f2f2;
+}
+
+.projectCardLeftSide {
+    flex-basis: 7%;
+    background-color: #56ccf2
+}
+.projectCardMidSide {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 67%;
+    flex-grow: 4;
+    padding-left: 27px;
+}
+
+.description {
+    height: 66px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.projectCard span {
+    margin: 1em 0 1em 0;
+}
+
+
+.projectCardRightSide {
+    text-align: left;
+    flex-basis: 26%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+

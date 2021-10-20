@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NSwag.CodeGeneration.CSharp" Version="13.10.2" />
+    <PackageReference Include="NSwag.CodeGeneration.TypeScript" Version="13.10.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="ts\ClientTS.nuspec">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

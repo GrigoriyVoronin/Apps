@@ -1,9 +1,0 @@
-C:\Users\molch\Desktop\синх2019\С#\Calculator .Net\bin\Debug\Calculator.Net.exe.config
-C:\Users\molch\Desktop\синх2019\С#\Calculator .Net\bin\Debug\Calculator.Net.exe
-C:\Users\molch\Desktop\синх2019\С#\Calculator .Net\bin\Debug\Calculator.Net.pdb
-C:\Users\molch\Desktop\синх2019\С#\Calculator .Net\obj\Debug\Calculator .Net.csprojAssemblyReference.cache
-C:\Users\molch\Desktop\синх2019\С#\Calculator .Net\obj\Debug\Calculator.Net.CalculatorForm.resources
-C:\Users\molch\Desktop\синх2019\С#\Calculator .Net\obj\Debug\Calculator.Net.Properties.Resources.resources
-C:\Users\molch\Desktop\синх2019\С#\Calculator .Net\obj\Debug\Calculator .Net.csproj.GenerateResource.cache
-C:\Users\molch\Desktop\синх2019\С#\Calculator .Net\obj\Debug\Calculator.Net.exe
-C:\Users\molch\Desktop\синх2019\С#\Calculator .Net\obj\Debug\Calculator.Net.pdb

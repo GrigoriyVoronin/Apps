@@ -1,0 +1,16 @@
+{
+  "name": "kontur.student.services",
+  "version": "1.0.0",
+  "description": "Kontur.Student services layer",
+  "main": "index.ts",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Kontur",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "2.21.1",
+    "kontur.student.di": "1.0.0",
+    "oidc-client": "1.11.5"
+  }
+}

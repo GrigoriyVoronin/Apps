@@ -1,0 +1,13 @@
+{
+  "name": "kontur.student.ui",
+  "version": "1.0.0",
+  "description": "Kontur.Student UI components layer",
+  "main": "index.ts",
+  "dependencies": {
+    "@skbkontur/react-icons": "4.4.0",
+    "@skbkontur/react-ui": "2.15.0",
+    "@skbkontur/react-ui-addons": "1.5.0",
+    "kontur.student.di": "1.0.0",
+    "process": "0.11.10"
+  }
+}

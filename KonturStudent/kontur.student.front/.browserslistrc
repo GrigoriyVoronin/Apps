@@ -1,0 +1,14 @@
+[development]
+last 5 Chrome versions
+last 5 Firefox versions
+last 5 Edge versions
+last 1 Safari version
+
+[production]
+last 5 Chrome versions
+last 5 Firefox versions
+last 5 Edge versions
+last 1 Safari version
+
+[test]
+current node

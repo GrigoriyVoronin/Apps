@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);1591</NoWarn>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>KonturStudent</PackageId>
+    <Authors>Kontur.Student</Authors>
+    <Company>Kontur</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	  <IsPackable>true</IsPackable>
+    <UserSecretsId>f86ad003-167f-4a0f-baf8-d974b23fbc92</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="IdentityModel.AspNetCore.OAuth2Introspection" Version="5.1.0" />
+    <PackageReference Include="JetBrains.Annotations" Version="2020.3.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="NSwag.AspNetCore" Version="13.9.2" />
+    <PackageReference Include="Vostok.Applications.AspNetCore.Kontur" Version="1.0.7" />
+    <PackageReference Include="Vostok.Hosting" Version="0.2.13" />
+    <PackageReference Include="Vostok.Hosting.Houston" Version="1.0.197" />
+    <PackageReference Include="Vostok.Hosting.Houston.Abstractions" Version="1.0.32" />
+    <PackageReference Include="Kontur.Rest.Filter" Version="1.0.105" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="5.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.0" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="5.0.0" />
+    <PackageReference Include="SkbKontur.Staff.Integration.Client" Version="4.4.6" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="5.0.0" />
+    <PackageReference Include="Vostok.ServiceDiscovery.Kontur" Version="1.0.40" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KSRepositories\KSRepositories.csproj" />
+  </ItemGroup>
+
+</Project>

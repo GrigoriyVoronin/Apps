@@ -1,0 +1,36 @@
+export enum RequestMethod {
+  GET = 'GET',
+  POST = 'POST',
+  PUT = 'PUT',
+  PATCH = 'PATCH',
+  DELETE = 'DELETE',
+  HEAD = 'HEAD',
+}
+export enum HttpCode {
+  Unknown = -1,
+  Abort = 0,
+  OK = 200,
+  Created = 201,
+  NoContent = 204,
+  Found = 302,
+  NotModified = 304,
+  BadRequest = 400,
+  Unauthorized = 401,
+  Forbidden = 403,
+  NotFound = 404,
+  MethodNotAllowed = 405,
+  NotAcceptable = 406,
+  RequestTimeout = 408,
+  Conflict = 409,
+  Teapot = 418,
+  InternalServiceError = 500,
+  ServiceUnavailable = 503,
+  GatewayTimeout = 504,
+}
+export const SUCCESSFUL_CODES = [
+  HttpCode.OK,
+  HttpCode.Created,
+  HttpCode.NoContent,
+  HttpCode.Found,
+  HttpCode.NotModified,
+];

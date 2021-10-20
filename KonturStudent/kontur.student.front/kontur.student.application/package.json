@@ -1,0 +1,18 @@
+{
+  "name": "kontur.student.application",
+  "version": "1.0.0",
+  "description": "Kontur.Student application layer",
+  "main": "index.ts",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Kontur",
+  "license": "ISC",
+  "dependencies": {
+    "kontur.student.services": "1.0.0",
+    "kontur.student.data": "1.0.0",
+	"kontur.student.ui": "1.0.0",
+    "kontur.student.routing": "1.0.0",
+    "kontur.student.di": "1.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "color-named": "never",
+    "color-hex-case": "lower",
+    "color-hex-length": "long",
+    "indentation": 4
+  },
+  "ignoreFiles": [
+    "build/*",
+    "node_modules/*"
+  ]
+}

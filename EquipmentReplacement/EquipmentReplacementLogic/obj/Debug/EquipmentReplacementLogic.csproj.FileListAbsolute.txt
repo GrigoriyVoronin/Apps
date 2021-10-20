@@ -1,6 +1,0 @@
-C:\Users\molch\Desktop\polina\EquipmentReplacement\EquipmentReplacementLogic\bin\Debug\EquipmentReplacementLogic.dll
-C:\Users\molch\Desktop\polina\EquipmentReplacement\EquipmentReplacementLogic\bin\Debug\EquipmentReplacementLogic.pdb
-C:\Users\molch\Desktop\polina\EquipmentReplacement\EquipmentReplacementLogic\obj\Debug\EquipmentReplacementLogic.csprojAssemblyReference.cache
-C:\Users\molch\Desktop\polina\EquipmentReplacement\EquipmentReplacementLogic\obj\Debug\EquipmentReplacementLogic.csproj.CoreCompileInputs.cache
-C:\Users\molch\Desktop\polina\EquipmentReplacement\EquipmentReplacementLogic\obj\Debug\EquipmentReplacementLogic.dll
-C:\Users\molch\Desktop\polina\EquipmentReplacement\EquipmentReplacementLogic\obj\Debug\EquipmentReplacementLogic.pdb

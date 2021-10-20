@@ -1,0 +1,15 @@
+{
+  "name": "kontur.student.routing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "router5": "8.0.1",
+    "router5-plugin-browser": "8.0.1",
+    "router5-transition-path": "8.0.1",
+    "kontur.student.di": "1.0.0",
+    "kontur.student.application": "1.0.0"
+  }
+}
